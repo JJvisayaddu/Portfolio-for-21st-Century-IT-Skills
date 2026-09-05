@@ -6,3 +6,17 @@
 <p style="font-family: 'Poppins', sans-serif; font-size: 13px;">
   Welcome to JJ’s Repository! This is a collection of my activities for 21st Century Skills in Prelim. It shows what I learned from our discussions by applying the lessons to real outputs. The repository highlights three main activities: presentation design principles, personal branding, and social media infographics with project documentation. Together, these outputs show my overall progress and understanding of 21st-century IT skills.
 </p>
+<h2 style="font-family: 'Fredoka', sans-serif; font-size: 18px; color: #3E2723; margin: 0 0 10px 0;">
+    TABLE OF CONTENTS
+  </h2>
+
+  <ul style="font-size: 13px; color: #4E342E; margin: 0; padding-left: 20px; line-height: 1.8;">
+    <li>Featured Activities</li>
+    <li>Tools & Technologies Used</li>
+    <li>Key Takeaways</li>
+    <li>Contact & Links</li>
+  </ul>
+
+  <hr style="border: none; border-top: 2px solid #8D6E63; margin-top: 15px;">
+
+</div>

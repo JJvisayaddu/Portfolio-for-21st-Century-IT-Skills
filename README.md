@@ -15,13 +15,12 @@
     <li>Featured Activities</li>
     <li>Tools & Technologies Used</li>
     <li>Key Takeaways</li>
-    <li>Contact & Links</li>
   </ul>
 
   <hr style="border: none; border-top: 2px solid #8D6E63; margin-top: 15px;">
 
 </div>
-<h3>FEATURED ACTIVITIES</h3>
+<h2>FEATURED ACTIVITIES</h2>
 
 <!-- SECTION 1 (INDEPENDENT DROPDOWN) -->
 <details>
@@ -230,8 +229,7 @@
 
 <hr style="border: 1px solid #ccc; margin-bottom: 20px;">
 
-<h3><strong>TOOLS & SITES USED</strong></h3>
-
+<h2>TOOLS & SITES USED</h2>
 <p>Here are the tools and sites I used when I created these activities. Each platform played a key role in improving the visual design and structural layout.</p>
 
 <p align="center">
@@ -359,3 +357,6 @@
     <p align="left">➤ <strong>Primary Benefit:</strong> Speeds up project setup by fixing coding errors and writing exact layout code for your portfolio.</p>
   </details>
 </div>
+
+
+

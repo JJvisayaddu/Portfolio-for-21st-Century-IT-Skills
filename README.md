@@ -26,7 +26,7 @@
 <!-- SECTION 1 (INDEPENDENT DROPDOWN) -->
 <details>
   <summary style="font-size: 16px; cursor: pointer;">
-    <strong>1. CANVA & PRESENTATION DESIGN PRINCIPLES</strong>
+ <strong>1. <a href="https://github.com/JJvisayaddu/Portfolio-for-Prelim-Exam/blob/main/ACT%201%3A%20Presentation%20Design%20Principles" target="_blank" style="text-decoration: none; color: inherit;">CANVA & PRESENTATION DESIGN PRINCIPLES</a></strong>
   </summary>
 
   <ul style="list-style-type: '➤ '; margin-top: 12px; margin-left: 20px;">
@@ -99,7 +99,7 @@
 <!-- SECTION 2 (INDEPENDENT DROPDOWN) -->
 <details>
   <summary style="font-size: 16px; cursor: pointer;">
-    <strong>2. PERSONAL BRANDING</strong>
+<strong>2. <a href="https://github.com/JJvisayaddu/Portfolio-for-Prelim-Exam/blob/main/ACT%202%3A" target="_blank" style="text-decoration: none; color: inherit;">PERSONAL BRANDING</a></strong>
   </summary>
 
   <ul style="list-style-type: '➤ '; margin-top: 12px; margin-left: 20px;">
@@ -192,7 +192,7 @@
 <!-- SECTION 3 (INDEPENDENT DROPDOWN) -->
 <details>
   <summary style="font-size: 16px; cursor: pointer;">
-    <strong>3. SOCIAL MEDIA INFOGRAPHICS & PROJECT DOCUMENTATION</strong>
+<strong>3. <a href="https://github.com/JJvisayaddu/Portfolio-for-Prelim-Exam/blob/main/ACT%203%3A" target="_blank" style="text-decoration: none; color: inherit;">SOCIAL MEDIA INFOGRAPHICS & PROJECT DOCUMENTATION</a></strong>
   </summary>
 
   <ul style="list-style-type: '➤ '; margin-top: 12px; margin-left: 20px;">

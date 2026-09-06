@@ -227,3 +227,135 @@
     </tbody>
   </table>
 </details>
+
+<hr style="border: 1px solid #ccc; margin-bottom: 20px;">
+
+<h3><strong>TOOLS & SITES USED</strong></h3>
+
+<p>Here are the tools and sites I used when I created these activities. Each platform played a key role in improving the visual design and structural layout.</p>
+
+<p align="center">
+      <a href="https://www.canva.com/">
+        <img src="https://github.com/JJvisayaddu/Portfolio-for-Prelim-Exam/blob/main/canva.png" width="200" height="200" alt="Canva Logo" />
+      </a>
+    </p>
+    <div align="center">
+  <details>
+    <summary style="cursor: pointer;">
+      <h4 style="display: inline;">CANVA</h4>
+    </summary>
+
+  <br>
+  <p align="left">➤ <strong>Definition & Core Purpose:</strong> Canva is an easy-to-use digital design platform that lets anyone create professional graphics, presentations, and visual content without needing prior design experience.</p>
+
+  <p align="left">➤ <strong>How It Helps:</strong> Serves as a primary tool to quickly create and customize presentation slides, infographics, social media layouts, and portfolio visual assets.</p>
+
+  <p align="left">➤ <strong>Key Feature:</strong> Provides a vast library of pre-made templates along with a drag-and-drop editor for easy text, image, and color adjustments.</p>
+    <p align="left">➤ <strong>Primary Benefit:</strong> Saves significant time by allowing you to produce professional-quality graphic assets and visual structures in minutes.</p>
+  </details>
+</div>
+
+<p align="center">
+      <a href="https://www.google.com/webhp?hl=en&sa=X&sqi=2&ved=2ahUKEwiqpsunvNmWAxWRSGwGHQPBA1cQPHoECAYQBA">
+        <img src="https://github.com/JJvisayaddu/Portfolio-for-Prelim-Exam/blob/6d83b8beaeabb957c1b02e3c8ecd8af86578c4f1/google.jpg" width="200" height="200" alt="Google Logo" />
+      </a>
+    </p>
+
+   <div align="center">
+  <details>
+    <summary style="cursor: pointer;">
+      <h4 style="display: inline;">GOOGLE</h4>
+    </summary>
+
+   <br>
+   <p align="left">➤ <strong>Definition & Core Purpose:</strong> A leading search engine designed to organize information and make it easy to find online.</p>
+    <p align="left">➤ <strong>How It Helps:</strong> Acts as a primary research tool to search for accurate factual information, stock images, design inspiration, and general references.</p>
+    <p align="left">➤ <strong>Key Feature:</strong> Offers advanced search filters to easily pinpoint reliable sources, specific image types, and up-to-date articles.</p>
+    <p align="left">➤ <strong>Primary Benefit:</strong> Saves time by quickly delivering exact answers and visual examples from across the web.</p>
+  </details>
+</div>
+
+<p align="center">
+      <a href="https://github.com/">
+        <img src="https://github.com/JJvisayaddu/Portfolio-for-Prelim-Exam/blob/6d83b8beaeabb957c1b02e3c8ecd8af86578c4f1/github.png" width="200" height="200" alt="GitHub Logo" />
+      </a>
+    </p>
+
+   <div align="center">
+  <details>
+    <summary style="cursor: pointer;">
+      <h4 style="display: inline;">GITHUB</h4>
+    </summary>
+
+  <br>
+
+  <p align="left">➤ <strong>Definition & Core Purpose:</strong> A cloud-based platform used for hosting code, tracking changes, and building web projects.</p>
+    <p align="left">➤ <strong>How It Helps:</strong> Helps with learning code structure, previewing live results, building interactive READMEs, and organizing work into clean portfolio folders.</p>
+    <p align="left">➤ <strong>Key Feature:</strong> Uses repositories and folders to store project files, code scripts, and documentation in one place.</p>
+    <p align="left">➤ <strong>Primary Benefit:</strong> Showcase your technical work and design projects to others in a clean, professional online format.</p>
+  </details>
+</div>
+
+<p align="center">
+      <a href="https://docs.google.com/document/?usp=docs_ald&authuser=0">
+        <img src="https://github.com/JJvisayaddu/Portfolio-for-Prelim-Exam/blob/6d83b8beaeabb957c1b02e3c8ecd8af86578c4f1/google%20docs.jpg" width="200" height="200" alt="Google Docs Logo" />
+      </a>
+    </p>
+
+  <div align="center">
+  <details>
+    <summary style="cursor: pointer;">
+      <h4 style="display: inline;">GOOGLE DOCS</h4>
+    </summary>
+
+  <br>
+
+<p align="left">➤ <strong>Definition & Core Purpose:</strong> An online word processor designed for creating, editing, and saving text documents in your browser.</p>
+    <p align="left">➤ <strong>How It Helps:</strong> Serves as a flexible drafting space to write out initial text, edit activity content, and refine portfolio outlines.</p>
+    <p align="left">➤ <strong>Key Feature:</strong> Automatically saves every change you make in real time so you never lose your work.</p>
+    <p align="left">➤ <strong>Primary Benefit:</strong> Allows you to clean up and spell-check your writing before adding it into your final GitHub layout.</p>
+  </details>
+</div>
+
+<p align="center">
+      <a href="https://www.youtube.com/">
+        <img src="https://github.com/JJvisayaddu/Portfolio-for-Prelim-Exam/blob/9d0d218ac5c2c9bcbcfd2a43dd1025ef412bfa9c/Youtube.png" width="200" height="200" alt="YouTube Logo" />
+      </a>
+    </p>
+
+  <div align="center">
+  <details>
+    <summary style="cursor: pointer;">
+      <h4 style="display: inline;">YOUTUBE</h4>
+    </summary>
+    <br>
+
+<p align="left">➤ <strong>Definition & Core Purpose:</strong> A global video platform used for watching, sharing, and learning from video content.</p>
+
+   <p align="left">➤ <strong>How It Helps:</strong> Acts as a visual learning hub for watching step-by-step video tutorials, discovering creative ideas, and learning new tools.</p>
+    <p align="left">➤ <strong>Key Feature:</strong> Provides video search and categorized playlists so you can follow along with tutorials at your own pace.</p>
+    <p align="left">➤ <strong>Primary Benefit:</strong> Makes complex software tools and design concepts much easier to learn through step-by-step visual guides.</p>
+  </details>
+</div>
+
+<p align="center">
+      <a href="https://gemini.google.com/app">
+        <img src="https://github.com/JJvisayaddu/Portfolio-for-Prelim-Exam/blob/6d83b8beaeabb957c1b02e3c8ecd8af86578c4f1/gemini.jpg" width="200" height="200" alt="Google Gemini Logo" />
+      </a>
+    </p>
+
+  <div align="center">
+  <details>
+    <summary style="cursor: pointer;">
+      <h4 style="display: inline;">GOOGLE GEMINI</h4>
+    </summary>
+
+  <br>
+
+  <p align="left">➤ <strong>Definition & Core Purpose:</strong> An AI assistant built to process questions, generate ideas, and help create custom code snippets.</p>
+
+   <p align="left">➤ <strong>How It Helps:</strong> Assists with asking detailed questions and turning visual ideas or layout concepts directly into clean GitHub code without needing coding experience.</p>
+    <p align="left">➤ <strong>Key Feature:</strong> Instantly generates and formats HTML, CSS, and Markdown text based on direct instructions.</p>
+    <p align="left">➤ <strong>Primary Benefit:</strong> Speeds up project setup by fixing coding errors and writing exact layout code for your portfolio.</p>
+  </details>
+</div>

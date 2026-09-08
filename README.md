@@ -216,12 +216,12 @@
       <tr>
         <td><strong>Objective</strong></td>
         <td>To present and simplify a real world problem using relevant information, data, and visual elements in a clear one page layout.</td>
-        <td>To write a short report proposing an IT or technology enabled solution to address the identified problem.</td>
+        <td>To write a short report proposing an solution (either technology-related or practical ones) to address the identified problem.</td>
       </tr>
       <tr>
         <td><strong>Importance</strong></td>
         <td>It turns complex information into quick, easy to digest visuals that capture attention and make data simple to understand.</td>
-        <td>It provides a clear written record of the problem, explains the tech solution in detail, and guides effective decision making.</td>
+        <td>It provides a clear written record of the problem, explains the solution in detail, and guides effective decision making.</td>
       </tr>
     </tbody>
   </table>

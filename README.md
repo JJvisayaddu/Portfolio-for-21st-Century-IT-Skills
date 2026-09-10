@@ -360,7 +360,6 @@
 
 ***
 
-<div align="center">
 <details>
 <summary style="cursor: pointer;">
   <h4 style="display: inline;">Key Takeaways</h4>

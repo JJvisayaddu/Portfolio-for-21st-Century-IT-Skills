@@ -358,5 +358,39 @@
   </details>
 </div>
 
+***
+
+<div align="center">
+<details>
+<summary style="cursor: pointer;">
+  <h4 style="display: inline;">Key Takeaways</h4>
+</summary>
+
+<br>
+
+<p align="left">➤ <strong>Multiple Ways to Share Information</strong></p>
+<p align="left">&nbsp;&nbsp;&nbsp;&nbsp;• Information can be delivered in many ways, but how you present it determines how easily people understand it.</p>
+
+<p align="left">➤ <strong>Organized Ideas for Easy Understanding</strong></p>
+<p align="left">&nbsp;&nbsp;&nbsp;&nbsp;• Organizing information into clear presentations makes it much easier for people to get your message.</p>
+
+<p align="left">➤ <strong>Visual Arts as Efficient Communication</strong></p>
+<p align="left">&nbsp;&nbsp;&nbsp;&nbsp;• Visual design lets you convey complex ideas without lengthy explanations, sparing people the need to read dense, confusing text.</p>
+
+<p align="left">➤ <strong>Simplifying Heavy Content</strong></p>
+<p align="left">&nbsp;&nbsp;&nbsp;&nbsp;• Detailed reports are organized but can feel overwhelming. Presentations and infographics make heavy information visually appealing, easy to read, and not too overwhelming.</p>
+
+<p align="left">➤ <strong>Meaningful Design Elements</strong></p>
+<p align="left">&nbsp;&nbsp;&nbsp;&nbsp;• Design is more than just looks. Layouts, color choices, and simple icons carry real meaning and help people understand your main points right away.</p>
+
+<p align="left">➤ <strong>The Effort Behind Effective Design</strong></p>
+<p align="left">&nbsp;&nbsp;&nbsp;&nbsp;• Creating these designs is hard because it requires careful planning, creativity, and extra effort to make them unique, clear, and visually appealing.</p>
+
+<p align="left">➤ <strong>Attracting the Audience and Delivering the Information</strong></p>
+<p align="left">&nbsp;&nbsp;&nbsp;&nbsp;• Without designs, you can't attract everyone because plain, text-heavy content makes people feel bored and confused; and if it is a bad design, you can't convey your message clearly or hold your audience's attention.</p>
+<p align="left">&nbsp;&nbsp;&nbsp;&nbsp;• In addition, we need to carefully organize the ideas and relevant information we wish to share and convey. </p>
+
+</details>
+</div>
 
 

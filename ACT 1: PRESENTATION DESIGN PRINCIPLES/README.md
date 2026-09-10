@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://github.com/JJvisayaddu/Portfolio-for-Prelim-Exam/blob/226a28b6afc7b1745e0359f336c0c2f043814bb6/act%201%20header.PNG" width="1000" height="400" />
+<img src="https://github.com/JJvisayaddu/Portfolio-for-Prelim-Exam/blob/226a28b6afc7b1745e0359f336c0c2f043814bb6/act%201%20header.PNG" width="1000" height="500" />
 
 ### ACT 1: PRESENTATION DESIGN PRINCIPLES
 

@@ -69,7 +69,7 @@ In this activity, I created two connected outputs: a Project Documentation Repor
 <br>
 <div align="center">
 <a href="https://www.canva.com/templates/EAHDRI8uuFk/">
-<img src="https://github.com/JJvisayaddu/Portfolio-for-Prelim-Exam/blob/b20df4509463eeccb932677a42dd4889d25a976e/template%20for%20act%203.png" width="700" height="1000" /></a>
+<img src="https://github.com/JJvisayaddu/Portfolio-for-Prelim-Exam/blob/b20df4509463eeccb932677a42dd4889d25a976e/template%20for%20act%203.png" width="500" height="1000" /></a>
 
 
 <p><em>(Main template)</em></p>
@@ -93,7 +93,7 @@ In this activity, I created two connected outputs: a Project Documentation Repor
 <p align="left">&nbsp;&nbsp;&nbsp;&nbsp;• It represents the deep peace and mindfulness that comes with it</p>
 
 <br>
-
+<div align="center">
 <img src="https://github.com/JJvisayaddu/Portfolio-for-Prelim-Exam/blob/b20df4509463eeccb932677a42dd4889d25a976e/Colors%20in%20act%203.PNG" width="500" height="1000" /></a>
 
 <p><em>(Colors used in Infographics and its font)</em></p>

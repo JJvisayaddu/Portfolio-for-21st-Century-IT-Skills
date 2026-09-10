@@ -135,3 +135,105 @@ In this activity, I created two connected outputs: a Project Documentation Repor
 
 </details>
 </div>
+
+***
+
+<div align="center">
+
+### PROJECT DOCUMENTATION REPORT
+
+<img src="https://github.com/JJvisayaddu/Portfolio-for-Prelim-Exam/blob/b20df4509463eeccb932677a42dd4889d25a976e/PDR%20act%203.PNG" width="1000" height="500" />
+</div>
+
+<details>
+<summary style="cursor: pointer;">
+  <h4 style="display: inline;">Explanation</h4>
+</summary>
+
+<br>
+
+<p align="left"><strong>What:</strong> I created a project documentation report in Google Docs that guides the structuring of social media feeds to protect users' mental well-being.</p>
+
+<p align="left"><strong>Why:</strong> I created this report to address the growing issue of digital toxicity and harassment, especially regarding what users see in their feeds, what content they engage with, and how they interpret posts, offering practical solutions to help people rebuild safer, healthier online environments.</p>
+
+<p align="left"><strong>How:</strong></p>
+
+* <strong>Research & Problem Analysis:</strong> Thought deeply and searched for recent issues in the IT world, discovering how people are affected by online problems, their impacts, and potential solutions.</p>
+* <strong>Solution Formulation:</strong> Carefully developed suggested solutions aimed at lessening and preventing users from seeing and engaging with toxic content.</p>
+* <strong>Document Structure & Drafting:</strong> Used the sample provided by the professor as an outline guide, applied key tips for writing research papers, and filled out all sections with detailed information.</p>
+
+</details>
+</div>
+
+---
+
+<details>
+<summary style="cursor: pointer;">
+  <h4 style="display: inline;">Problem</h4>
+</summary>
+
+<br>
+
+<p align="left">➤ Excessive exposure to unmonitored digital toxicity, online harassment, and misinformation on social media feeds damages users' mental well-being and distorts their peace of mind.</p>
+
+</details>
+</div>
+
+<details>
+<summary style="cursor: pointer;">
+  <h4 style="display: inline;">Objectives</h4>
+</summary>
+
+<br>
+
+<p align="left">➤ Protect social media users from toxic content, mean comments, and fake news to safeguard their mental health.</p>
+
+<p align="left"><strong>Specific Objectives:</strong></p>
+<p align="left">➤ Investigate how bad and anonymous users spread fake news and negative comments online.</p>
+<p align="left">➤ Examine how seeing negative posts harms the mental health of youth and older adults.</p>
+<p align="left">➤ Provide practical tips to help users filter and clean up their social media feeds.</p>
+<p align="left">➤ Suggest a simple management system and program to help users keep their online spaces safe.</p>
+
+</details>
+</div>
+
+<details>
+<summary style="cursor: pointer;">
+  <h4 style="display: inline;">Significance of the study</h4>
+</summary>
+
+<br>
+
+<p align="left">This project is significant because it helps people build a safe and healthy online environment. It teaches users how to spot misleading posts, avoid toxic content, and control their social media feeds to make positive choices.</p>
+
+<p align="left">➤ <strong>Underage People:</strong> Helps youth recognize negative content, avoid believing harmful posts, and manage their feeds to build a healthier relationship with social media.</p>
+<p align="left">➤ <strong>Adults and Older People:</strong> Teaches older users to identify fake news, scam accounts, and misleading posts, helping them browse the internet safely and critically.</p>
+<p align="left">➤ <strong>Parents and Guardians:</strong> Gives parents the knowledge they need to understand online risks and guide their children toward safe social media habits.</p>
+<p align="left">➤ <strong>Influencers:</strong> Reminds content creators of their impact on young minds, encouraging them to post responsibly, add warnings, and spread positivity.</p>
+<p align="left">➤ <strong>Social Media Platforms:</strong> Helps platform developers understand how harmful posts affect users, encouraging them to create stronger safety filters and promote positive content.</p>
+
+</details>
+</div>
+
+<details>
+<summary style="cursor: pointer;">
+  <h4 style="display: inline;">Proposed Solutions</h4>
+</summary>
+
+<br>
+
+<p align="left">To help lessen the reach and impact of harmful online accounts, these proposed solutions offer practical strategies for both platforms and everyday users to build a safer digital space.</p>
+
+<p align="left">➤ <strong>Platform Safety Mode:</strong> A dedicated built-in setting on social apps that automatically filters out bullying, hate speech, and unverified news to give users a clean feed.</p>
+<p align="left">➤ <strong>Free Ads and Perks for Positive Creators:</strong> Rewards and free promotional space for creators who share uplifting, educational, and fact-checked content.</p>
+<p align="left">➤ <strong>BRIMU Strategy (Block, Report, Ignore, Mute, Unfollow):</strong> A personal action plan for users to silently mute, unfollow, or report toxic users and clean up their algorithms.</p>
+<p align="left">➤ <strong>External Reporting Websites and Forms:</strong> Outside reporting tools provided by governments or organizations to help cybercrime teams track down and remove malicious accounts.</p>
+<p align="left">➤ <strong>Educational Seminars and Workshops:</strong> Community programs in schools, barangays, and senior groups that teach media literacy, privacy protection, and feed management.</p>
+<p align="left">➤ <strong>Awareness Accounts and Communities:</strong> Dedicated pages and groups created by organizations to regularly post encouraging content and digital safety tips.</p>
+<p align="left">➤ <strong>Informational Campaigns:</strong> Easy-to-understand visual tools like infographics, posters, and short videos boosted through ads to teach safe online habits.</p>
+
+</details>
+</div>
+
+---
+

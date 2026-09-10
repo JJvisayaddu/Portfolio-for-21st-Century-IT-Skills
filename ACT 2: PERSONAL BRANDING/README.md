@@ -52,10 +52,10 @@ In this activity, I applied the guidelines from our personal branding lesson to 
 
 <p align="left"><strong>How:</strong></p>
 
-<p align="left">➤ <strong>Color Basis:</strong> Used the graphic image of the ube tuber in the logo as the main reference for the brand's palette.</p>
-<p align="left">➤ <strong>Color Adjustments:</strong> Adjusted the tone, shade, and tint of the ube colors to create a sweet purple and pink palette representing its natural look.</p>
-<p align="left">➤ <strong>Brand Symbolism:</strong> Paired custom ube and root graphics to symbolize authentic, farm-grown ingredients and keep the brand grounded in local heritage.</p>
-<p align="left">➤ <strong>Template & Font Exploration:</strong> Explored multiple design templates to study logo structures and typography, then modified them with custom ideas to fit the ube product identity.</p>
+* <strong>Color Basis:</strong> Used the graphic image of the ube tuber in the logo as the main reference for the brand's palette.</p>
+* <strong>Color Adjustments:</strong> Adjusted the tone, shade, and tint of the ube colors to create a sweet purple and pink palette representing its natural look.</p>
+* <strong>Brand Symbolism:</strong> Paired custom ube and root graphics to symbolize authentic, farm-grown ingredients and keep the brand grounded in local heritage.</p>
+* <strong>Template & Font Exploration:</strong> Explored multiple design templates to study logo structures and typography, then modified them with custom ideas to fit the ube product identity.</p>
 
 </details>
 </div>

@@ -8,7 +8,8 @@
 <div align="justify">
 In this activity, I applied the guidelines from our personal branding lesson to design a cohesive branding kit for my chosen product, establishing a distinct visual identity that sets it apart and attracts its target audience.
 </div>
----
+
+***
 
 <div align="center">
 <a href="https://canva.link/miv3cbmc1slyg18" target="_blank">

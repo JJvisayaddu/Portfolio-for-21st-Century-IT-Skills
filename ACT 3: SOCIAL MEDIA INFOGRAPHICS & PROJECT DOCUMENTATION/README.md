@@ -21,10 +21,10 @@ In this activity, I created two connected outputs: a Project Documentation Repor
 
 <p align="left"><strong>How:</strong></p>
 
-<p align="left">➤ <strong>Planning & Connection:</strong> Thoughtfully selected a relevant problem and planned the infographic to support the report as part of its proposed solution directly.</p>
-<p align="left">➤ <strong>Reference Guidance:</strong> Utilized the sample project provided by the professor as a structural guide to keep the work organized.</p>
-<p align="left">➤ <strong>Template & Graphic Selection:</strong> Explored multiple design templates to select the primary layout, matching font styles, and relevant graphics.</p>
-<p align="left">➤ <strong>Applied Design Principles:</strong> Applied key visual techniques from previous lessons to ensure the infographic remained balanced, engaging, and easy to read.</p>
+* <strong>Planning & Connection:</strong> Thoughtfully selected a relevant problem and planned the infographic to support the report as part of its proposed solution directly.</p>
+* <strong>Reference Guidance:</strong> Utilized the sample project provided by the professor as a structural guide to keep the work organized.</p>
+* <strong>Template & Graphic Selection:</strong> Explored multiple design templates to select the primary layout, matching font styles, and relevant graphics.</p>
+* <strong>Applied Design Principles:</strong> Applied key visual techniques from previous lessons to ensure the infographic remained balanced, engaging, and easy to read.</p>
 
 </details>
 </div>

@@ -147,13 +147,15 @@ In this activity, I applied the guidelines from our personal branding lesson to 
 
 <br>
 <div align="center">
-<img src="https://github.com/JJvisayaddu/Portfolio-for-Prelim-Exam/blob/b20df4509463eeccb932677a42dd4889d25a976e/template%20logo%20for%20act%202.PNG" alt="Main template of the logo" width="300" />
+<a href="https://www.canva.com/templates/EAHKHA5lpcA/" target="_blank">
+<img src="https://github.com/JJvisayaddu/Portfolio-for-Prelim-Exam/blob/b20df4509463eeccb932677a42dd4889d25a976e/template%20logo%20for%20act%202.PNG" alt="Main template of the logo" width="300" /> </a>
 
 <p><em>(Main template of the logo)</em></p>
 
 <br>
 <div align="center">
-<img src="https://github.com/JJvisayaddu/Portfolio-for-Prelim-Exam/blob/b20df4509463eeccb932677a42dd4889d25a976e/template%20for%20tagline%20n%20header%20for%20act%202.PNG" alt="Template and small details for Tagline & Header" width="500" />
+<a href="https://www.canva.com/templates/EAGi7L564yQ/" target="_blank">
+<img src="https://github.com/JJvisayaddu/Portfolio-for-Prelim-Exam/blob/b20df4509463eeccb932677a42dd4889d25a976e/template%20for%20tagline%20n%20header%20for%20act%202.PNG" alt="Template and small details for Tagline & Header" width="500" /></a>
 
 <p><em>(Template and small details for Tagline & Header)</em></p>
 

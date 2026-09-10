@@ -52,8 +52,8 @@ In this activity, I created two connected outputs: a Project Documentation Repor
 
 <p align="left"><strong>How:</strong></p>
 
-<p align="left">➤ <strong>Concept Planning:</strong> Connected the infographic directly to my project documentation report, using it as a visual application of my proposed solution. Instead of just presenting information about the problem, I designed the infographic to spread active awareness on how to cleanse feeds.</p>
-<p align="left">➤ <strong>Design & Customization:</strong> Found a solid template to serve as the main body, then transformed it using my own ideas, colors, and graphic elements. Additionally, I replaced the small background shapes with social media-related action icons and 3D emojis, applying soft purple and blue tones to keep the output calm and easy to read.</p>
+* <strong>Concept Planning:</strong> Connected the infographic directly to my project documentation report, using it as a visual application of my proposed solution. Instead of just presenting information about the problem, I designed the infographic to spread active awareness on how to cleanse feeds.</p>
+* <strong>Design & Customization:</strong> Found a solid template to serve as the main body, then transformed it using my own ideas, colors, and graphic elements. Additionally, I replaced the small background shapes with social media-related action icons and 3D emojis, applying soft purple and blue tones to keep the output calm and easy to read.</p>
 
 </details>
 </div>

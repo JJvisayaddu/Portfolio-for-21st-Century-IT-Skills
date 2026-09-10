@@ -11,27 +11,27 @@ In this activity, I applied the guidelines from our personal branding lesson to 
 ---
 
 <div align="center">
-
+<a href="https://canva.link/miv3cbmc1slyg18" target="_blank">
 <img src="https://github.com/JJvisayaddu/Portfolio-for-Prelim-Exam/blob/b20df4509463eeccb932677a42dd4889d25a976e/Visaya_PERSONAL%20LOGO%20(Ubelala).png" alt="Ubelala Logo" width="500" height="1000" />
-
+</a>
 <p><em>(Logo)</em></p>
 
 <br>
-
+<a href="https://canva.link/x44a6h4vv6aeag7" target="_blank">
 <img src="https://github.com/JJvisayaddu/Portfolio-for-Prelim-Exam/blob/b20df4509463eeccb932677a42dd4889d25a976e/Visaya_Tagline%26Header%20(Ubelala).png" alt="Ubelala Header or Tagline" width="1000" height="1000" />
-
+</a>
 <p><em>(Header or Tagline)</em></p>
 
 <br>
-
+<a href="https://canva.link/x44a6h4vv6aeag7" target="_blank">
 <img src="https://github.com/JJvisayaddu/Portfolio-for-Prelim-Exam/blob/b20df4509463eeccb932677a42dd4889d25a976e/Visaya_COLOR%20PALETTE%20%26%20TYPOGRAPHY%20SET.png" alt="Color Palette & Typography Set" width="1000" height="1000" />
-
+</a>
 <p><em>(Color Palette & Typography Set)</em></p>
 
 <br>
-
+<a href="https://canva.link/x44a6h4vv6aeag7" target="_blank">
 <img src="https://github.com/JJvisayaddu/Portfolio-for-Prelim-Exam/blob/b20df4509463eeccb932677a42dd4889d25a976e/Visaya_RESUME%20HEADER%20(Ubelala).png" alt="Resume Header" width="1000" height="1000" />
-
+</a>
 <p><em>(Resume Header)</em></p>
 
 </div>
@@ -171,3 +171,4 @@ In this activity, I applied the guidelines from our personal branding lesson to 
 </div>
 
 ---
+

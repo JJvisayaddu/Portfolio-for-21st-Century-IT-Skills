@@ -98,13 +98,15 @@ Working from the context and essential details provided by our professor, I was 
 
 <br>
 <div align="center">
-<img src="https://github.com/JJvisayaddu/Portfolio-for-Prelim-Exam/blob/b20df4509463eeccb932677a42dd4889d25a976e/main%20template%20for%20act%201.PNG" width="500" height="1000" />
+<a href="https://www.canva.com/templates/EAGYKLmrCI0/">
+<img src="https://github.com/JJvisayaddu/Portfolio-for-Prelim-Exam/blob/b20df4509463eeccb932677a42dd4889d25a976e/main%20template%20for%20act%201.PNG" width="500" height="1000" /></a>
 
 <p><em>(Main template as a whole basis)</em></p>
 
 <div align="center">
 
-<img src="https://github.com/JJvisayaddu/Portfolio-for-Prelim-Exam/blob/b20df4509463eeccb932677a42dd4889d25a976e/template%201%20for%20act%201.PNG" width="500" height="1000" />
+<a href="https://www.canva.com/templates/EAHEQRZx9Io/">
+<img src="https://github.com/JJvisayaddu/Portfolio-for-Prelim-Exam/blob/b20df4509463eeccb932677a42dd4889d25a976e/template%201%20for%20act%201.PNG" width="500" height="1000" /></a>
 
 <p><em>(Another template for some designs)</em></p>
 

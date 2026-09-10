@@ -23,8 +23,6 @@ Working from the context and essential details provided by our professor, I was 
 
 </div>
 
----
-
 <details>
 <summary><b>Explanation</b></summary>
 
@@ -42,6 +40,8 @@ Working from the context and essential details provided by our professor, I was 
 * **Refined Layout Hierarchy:** Arranged text sizes and spacing so the main title grabs attention first and important information is easy to read.
 
 </details>
+
+***
 
 <details>
 <summary style="cursor: pointer;">

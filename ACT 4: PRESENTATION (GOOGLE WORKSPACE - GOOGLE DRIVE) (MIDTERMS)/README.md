@@ -17,7 +17,9 @@
 <br>
 <hr style="border: 1px solid #ccc;">
 
-<img src="https://github.com/JJvisayaddu/Portfolio-for-21st-Century-IT-Skills/blob/aee2762c75d164af0a5bbbeb9af1116ae660a493/ACT%204%3A%20PRESENTATION%20(GOOGLE%20WORKSPACE%20-%20GOOGLE%20DRIVE)%20(MIDTERMS)/act%204%20header%202.PNG" width="1000" height="500" />
+<a href="https://www.canva.com/design/DAHWCBFRf5g/RksCbVxbxBn6wwsmeb5jXg/edit?ui=eyJBIjp7fX0&fbclid=IwY2xjawU5ZptleHRuA2FlbQIxMABwZG9mAWJyaWQRMExXWHNMVmIyT01xS2xQRkRzcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyAAEeUeQrM09SsTlpweJzoj59rLDVEgqSsRYjbuxJYm6ejz91oIvLKSV2IBxkbjc_aem_0G1AgwcI1xPOl4U4QbkIOw" target="_blank">
+  <img src="https://github.com/JJvisayaddu/Portfolio-for-21st-Century-IT-Skills/blob/aee2762c75d164af0a5bbbeb9af1116ae660a493/ACT%204%3A%20PRESENTATION%20(GOOGLE%20WORKSPACE%20-%20GOOGLE%20DRIVE)%20(MIDTERMS)/act%204%20header%202.PNG" width="1000" height="500" alt="Google Drive Header" />
+</a>
 
 <div align="center">
 
@@ -114,4 +116,111 @@
 
 <br>
 
+<details>
+<summary><b>Apps</b></summary>
 
+<br>
+
+<p>Google Drive provides shared storage for all files created and used within the Google Workspace.</p>
+
+<p>Here are the websites, apps that can be appeared in Google Drive</p>
+
+* [Google Docs](https://drive.google.com/drive/my-drive?q=type:document%20parent:0AJ_OfS0EFKi2Uk9PVA)
+* [Google Sheets](https://drive.google.com/drive/my-drive?q=type:spreadsheet%20parent:0AJ_OfS0EFKi2Uk9PVA)
+* [Google Slides](https://drive.google.com/drive/my-drive?q=type:presentation%20parent:0AJ_OfS0EFKi2Uk9PVA)
+* [Google Forms](https://drive.google.com/drive/my-drive?q=type:form%20parent:0AJ_OfS0EFKi2Uk9PVA)
+* [Google Site](https://drive.google.com/drive/my-drive?q=type:site%20parent:0AJ_OfS0EFKi2Uk9PVA)
+* [Google Videos](https://drive.google.com/drive/my-drive?q=type:vids%20parent:0AJ_OfS0EFKi2Uk9PVA)
+* [Videos](https://drive.google.com/drive/my-drive?q=type:video%20parent:0AJ_OfS0EFKi2Uk9PVA)
+* [Photo & Images](https://drive.google.com/drive/my-drive?q=type:image%20parent:0AJ_OfS0EFKi2Uk9PVA)
+* [Audio](https://drive.google.com/drive/my-drive?q=type:audio%20parent:0AJ_OfS0EFKi2Uk9PVA)
+* [Drawings](https://drive.google.com/drive/my-drive?q=type:drawing%20parent:0AJ_OfS0EFKi2Uk9PVA)
+* [PDFs](https://drive.google.com/drive/my-drive?q=type:pdf%20parent:0AJ_OfS0EFKi2Uk9PVA)
+* [Archives (zip)](https://drive.google.com/drive/my-drive?q=type:archive%20parent:0AJ_OfS0EFKi2Uk9PVA)
+* [Folders](https://drive.google.com/drive/my-drive?q=type:folder%20parent:0AJ_OfS0EFKi2Uk9PVA)
+</details>
+
+<br>
+
+<details>
+<summary><b><a href="https://one.google.com/intl/en_ph/about/#compare-plans">Storage Spaces for Google Drive</a></b></summary>
+
+<br>
+
+*(Click the title to see the Google One plans)*
+
+<br>
+
+<p align="justify">➤ Google Drive serves as a key component of G Suite, which is Google's monthly subscription offering designed for businesses and organizations.</p>
+
+<p>Since Google Drive is like a storage for files of any Google app, it offers a variety of memory spaces to store more files.</p>
+
+<br>
+<div align="center">
+
+| Name | Bytes (Space) | Price |
+| :--- | :--- | :--- |
+| **Free of charge** | 15 GB | Free |
+| **Lite** | 30 GB | ₱49 |
+| **Basic** | 100 GB | ₱119 |
+| **Standard** | 200 GB | ₱179 |
+| **Google AI Plus** | 400 GB | ₱285 |
+| **Google AI Pro** | 5 TB | ₱1,100 |
+| **Google AI Ultra 5x** | 20 TB | ₱5,999 |
+| **Google AI Ultra 20x** | 30 TB | ₱11,900 |
+
+</div>
+</details>
+
+<br>
+
+<details>
+<summary><b>Additional Information About Google Drive</b></summary>
+
+<br>
+
+<div align="center">
+
+### Version History
+
+| Explanation | Example |
+| :--- | :--- |
+| <p align="justify">Another useful feature of Google Drive is Version History. This allows users to see the changes that were made to a file and, for supported files, go back to an earlier version.</p> | <p align="justify">For example, if we're working on a group report and someone accidentally changes or removes an important part, we can check the previous version of the document. This can be very helpful, especially.</p> |
+
+<br>
+
+### File Recovery
+
+| Explanation | Example |
+| :--- | :--- |
+| <p align="justify">When we accidentally delete a file, it doesn't immediately disappear permanently. Deleted files can be moved to the Trash, where they may still be restored within the available retention period.</p> | <p align="justify">For example, if we accidentally delete an important school requirement, we can check the Trash and restore the file if it is still available.</p> |
+
+</div>
+
+
+
+<div align="center">
+
+### Search Function
+
+| Explanation | Example |
+| :--- | :--- |
+| <p align="justify">If we have a lot of files saved in Google Drive, finding a specific document manually can be time-consuming. Google Drive has a search function that allows users to quickly look for files.</p> | <p align="justify">For example, instead of opening different folders one by one to find a research paper, we can simply type the name or keywords of the file in the search bar. This makes managing a large number of files much easier.</p> |
+
+<br>
+
+### File Sharing Through Links
+
+| Explanation | Example |
+| :--- | :--- |
+| <p align="justify">Aside from directly sharing a file with a specific person, Google Drive also allows users to share files through a link. When creating a link, the owner can control the access of other people.</p> | <p align="justify">For example, we can set the file so that someone can only view it, comment on it, or edit it. So before sharing a link, it's important to check the permission settings to make sure that only the intended people can access or change the file.</p> |
+
+</div>
+</details>
+<br>
+<hr style="border: 1px solid #ccc;">
+<br>
+
+<p align="center"><i>(Note: click the google drive header for the view of presentation)</i></p>
+
+<br>

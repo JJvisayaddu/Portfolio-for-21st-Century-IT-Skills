@@ -1,395 +1,450 @@
-<img src="https://github.com/JJvisayaddu/Portfolio-for-Prelim-Exam/blob/063cf8e0e9c6c225db2be930597f10c7b24f1147/Screen-Shot-2022-10-17-at-6.19.09-PM.png" width="1000" height="400" />
-<h1 style="font-family: 'Fredoka', sans-serif; font-size: 20px;">
-  COLLECTION OF ACTIVITIES FOR 21st CENTURY SKILLS
-</h1>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050811,50:0F294A,100:2563EB&height=120&section=header&text=JJ's%20REPOSITORY%20&fontSize=36&fontColor=38BDF8&animation=fadeIn&fontAlignY=38" width="100%" /><div align="center">
 
-<p style="font-family: 'Poppins', sans-serif; font-size: 13px;">
-  Welcome to JJ’s Repository! This is a collection of my activities for 21st Century Skills in Prelim. It shows what I learned from our discussions by applying the lessons to real outputs. The repository highlights three main activities: presentation design principles, personal branding, and social media infographics with project documentation. Together, these outputs show my overall progress and understanding of 21st-century IT skills.
-</p>
-<hr style="border: none; border-top: 2px solid #8D6E63; margin-top: 15px;">
-<h2 style="font-family: 'Fredoka', sans-serif; font-size: 18px; color: #3E2723; margin: 0 0 10px 0;">
-    TABLE OF CONTENTS
-  </h2>
+# ⚡⚙️ 21ST CENTURY IT SKILLS ⚙️⚡
 
-  <ul style="font-size: 13px; color: #4E342E; margin: 0; padding-left: 20px; line-height: 1.8;">
-    <li>Featured Activities</li>
-    <li>Tools & Technologies Used</li>
-    <li>Key Takeaways</li>
-  </ul>
+<div align="center">
 
-  <hr style="border: none; border-top: 2px solid #8D6E63; margin-top: 15px;">
+*✨ Journey &amp; Activities in 21st Century IT skills (Digital Portfolio) ✨*
+
+`₊˚◈ ───────── ılıllılı ───────── ◈˚₊`
 
 </div>
-<h2>FEATURED ACTIVITIES</h2>
-
-<!-- SECTION 1 (INDEPENDENT DROPDOWN) -->
-<details>
-  <summary style="font-size: 16px; cursor: pointer;">
- <strong>1. <a href="https://github.com/JJvisayaddu/Portfolio-for-Prelim-Exam/blob/main/ACT%201%3A%20Presentation%20Design%20Principles" target="_blank" style="text-decoration: none; color: inherit;">CANVA & PRESENTATION DESIGN PRINCIPLES</a></strong>
-  </summary>
-
-  <ul style="list-style-type: '➤ '; margin-top: 12px; margin-left: 20px;">
-    <li><strong>Objectives</strong>
-      <ul style="list-style-type: square; margin-top: 8px;">
-        <li><strong>Understand Visual Impact:</strong> Explain how design grabs attention before someone even reads the text.</li>
-        <li><strong>Apply Key Design Rules:</strong> Learn and use core principles to build better presentations.</li>
-        <li><strong>Compare Slide Quality:</strong> Spot the difference between good and bad slide structures using design principles.</li>
-        <li><strong>Combine Design & Content:</strong> Recognize that great communication needs both solid information and strong visuals.</li>
-      </ul>
-    </li>
-    <li style="margin-top: 12px;"><strong>Design</strong>
-      <ul style="list-style-type: square; margin-top: 8px;">
-        <li>The plan or process of arranging text, colors, shapes, and layouts to solve a problem and communicate an idea clearly.</li>
-      </ul>
-    </li>
-    <li style="margin-top: 12px;"><strong>Why does design matter?</strong>
-      <ul style="list-style-type: square; margin-top: 8px;">
-        <li><strong>The eye reads before it thinks:</strong> Good layout, color, and spacing tell the audience where to look before they read a single word.</li>
-        <li><strong>Faster comprehension:</strong> A well structured slide is understood in seconds instead of reading line by line.</li>
-        <li><strong>Better retention:</strong> Audiences remember visually distinct items much longer than plain text.</li>
-        <li><strong>Clearer persuasion:</strong> Visual structure shows what is most important before you speak.</li>
-      </ul>
-    </li>
-  </ul>
-
-  <!-- TABLE INSIDE DROPDOWN -->
-  <table border="1" cellpadding="8" cellspacing="0" style="border-collapse: collapse; width: 100%; margin-top: 20px; margin-bottom: 20px; margin-left: 20px;">
-    <thead>
-      <tr>
-        <th colspan="2" style="text-align: center; font-weight: bold;">CORE PRINCIPLES</th>
-      </tr>
-      <tr>
-        <th style="text-align: left; font-weight: bold;">Name</th>
-        <th style="text-align: left; font-weight: bold;">Meaning</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td><em><strong>Contrast</strong></em></td>
-        <td>Makes key items stand out from the background so they are easy to read from far away.</td>
-      </tr>
-      <tr>
-        <td><em><strong>Repetition</strong></em></td>
-        <td>Uses the same fonts, colors, and spacing throughout so the presentation looks unified.</td>
-      </tr>
-      <tr>
-        <td><em><strong>Alignment</strong></em></td>
-        <td>Lines up every element along a straight grid or edge so nothing looks random.</td>
-      </tr>
-      <tr>
-        <td><em><strong>Proximity</strong></em></td>
-        <td>Places related items close together to form a clear group while keeping unrelated items apart.</td>
-      </tr>
-    </tbody>
-  </table>
-
-  <ul style="list-style-type: '➤ '; margin-top: 12px; margin-left: 20px;">
-    <li><strong>WHY GOOD DESIGN MATTERS?</strong>
-      <ul style="list-style-type: square; margin-top: 8px;">
-        <li><strong>Enhancing Usability and Functionality:</strong> Helps people interact with and use information more easily.</li>
-        <li><strong>Communicating Clearly:</strong> Delivers key messages directly without confusing the audience.</li>
-        <li><strong>Evoking Emotion and Creating Experiences:</strong> Creates strong visual connections that leave a lasting impression.</li>
-        <li><strong>Driving Innovation:</strong> Brings creative and modern solutions to everyday problems.</li>
-      </ul>
-    </li>
-  </ul>
-</details>
-
-<!-- SECTION 2 (INDEPENDENT DROPDOWN) -->
-<details>
-  <summary style="font-size: 16px; cursor: pointer;">
-<strong>2. <a href="https://github.com/JJvisayaddu/Portfolio-for-Prelim-Exam/blob/main/ACT%202%3A" target="_blank" style="text-decoration: none; color: inherit;">PERSONAL BRANDING</a></strong>
-  </summary>
-
-  <ul style="list-style-type: '➤ '; margin-top: 12px; margin-left: 20px;">
-    <li><strong>Objectives</strong>
-      <ul style="list-style-type: square; margin-top: 8px;">
-        <li><strong>Understand Personal Branding:</strong> Learn how to create a strategy and unique identity that shapes how people view you and sets you apart from others.</li>
-        <li><strong>Recognize Its Importance:</strong> See how personal branding builds trust, gives a competitive edge, attracts opportunities, and helps reach personal goals.</li>
-        <li><strong>Identify Core Branding Elements:</strong> Learn the essential parts of a brand identity, such as logos, color palettes, typography, taglines, and core values.</li>
-        <li><strong>Build a Personal Brand Strategy:</strong> Practice the step-by-step process of defining your goals, identifying your audience, designing visual assets, and maintaining consistency over time.</li>
-      </ul>
-    </li>
-    <li style="margin-top: 12px;"><strong>PERSONAL BRANDING</strong>
-      <ul style="list-style-type: square; margin-top: 8px;">
-        <li>It is the process of designing a strategy to shape public perception and build a distinct identity that sets you apart from competitors.</li>
-      </ul>
-    </li>
-    <li style="margin-top: 12px;"><strong>Importance</strong>
-      <ul style="list-style-type: square; margin-top: 8px;">
-        <li><strong>Allows you to have a distinct advantage over others:</strong> It sets you apart from competitors by highlighting your unique qualities and strengths.</li>
-        <li><strong>Builds trust & credibility:</strong> It shows people you are reliable and knowledgeable in your specific area.</li>
-        <li><strong>Generates professional opportunities:</strong> It opens doors for career growth, partnerships, and new job offers.</li>
-        <li><strong>Helps you attract more clients:</strong> It makes you more visible and appealing to people looking for your skills or services.</li>
-        <li><strong>Helps you reach your goals:</strong> It provides a clear path and direction to achieve your personal and professional targets.</li>
-      </ul>
-    </li>
-  </ul>
-
-  <!-- TABLE INSIDE DROPDOWN -->
-  <table border="1" cellpadding="8" cellspacing="0" style="border-collapse: collapse; width: 100%; margin-top: 25px; margin-bottom: 20px;">
-  <table border="1" cellpadding="8" cellspacing="0" style="border-collapse: collapse; width: 100%; margin-top: 20px; margin-bottom: 20px; margin-left: 20px;">
-    <thead>
-      <tr>
-        <th colspan="2" style="text-align: center; font-weight: bold;">CORE COMPONENTS</th>
-      </tr>
-      <tr>
-        <th style="text-align: left; font-weight: bold;">Name</th>
-        <th style="text-align: left; font-weight: bold;">Meaning</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td><em><strong>Brand Name</strong></em></td>
-        <td>The specific name or identity you use to represent yourself professionally.</td>
-      </tr>
-      <tr>
-        <td><em><strong>Logo</strong></em></td>
-        <td>A unique visual symbol or icon that makes your brand instantly recognizable.</td>
-      </tr>
-      <tr>
-        <td><em><strong>Color Palette</strong></em></td>
-        <td>A set of specific colors chosen to represent your brand's mood and identity consistently.</td>
-      </tr>
-      <tr>
-        <td><em><strong>Typography</strong></em></td>
-        <td>The distinct fonts and text styles used across all your brand materials.</td>
-      </tr>
-      <tr>
-        <td><em><strong>Tagline</strong></em></td>
-        <td>A short, catchy phrase that summarizes what you offer or stand for.</td>
-      </tr>
-      <tr>
-        <td><em><strong>Values</strong></em></td>
-        <td>The core principles and beliefs that guide your professional conduct and message.</td>
-      </tr>
-      <tr>
-        <td><em><strong>Visual Style</strong></em></td>
-        <td>The overall look, image choices, and layout aesthetic of your content.</td>
-      </tr>
-      <tr>
-        <td><em><strong>Guidelines</strong></em></td>
-        <td>A set of rules that ensures your brand design remains consistent everywhere.</td>
-      </tr>
-    </tbody>
-  </table>
-
-  <ul style="list-style-type: '➤ '; margin-top: 12px; margin-left: 20px;">
-    <li><strong>How to Build Your Personal Brand</strong>
-      <ul style="list-style-type: square; margin-top: 8px;">
-        <li><strong>Define What You Want to Be Known For:</strong> Identify your strengths, passions, and core expertise.</li>
-        <li><strong>Know Your Audience:</strong> Understand who you are trying to reach and what they need.</li>
-        <li><strong>Develop Your Visual Identity:</strong> Design a cohesive logo, color scheme, and graphic style.</li>
-        <li><strong>Create Your Digital Assets:</strong> Build your portfolio, resume, social media profiles, and website.</li>
-        <li><strong>Be Consistent:</strong> Keep your message, tone, and visual style identical across all platforms.</li>
-        <li><strong>Let Your Brand Evolve:</strong> Update and refine your brand as you grow, learn, and gain new experience.</li>
-      </ul>
-    </li>
-  </ul>
-</details>
-
-<!-- SECTION 3 (INDEPENDENT DROPDOWN) -->
-<details>
-  <summary style="font-size: 16px; cursor: pointer;">
-<strong>3. <a href="https://github.com/JJvisayaddu/Portfolio-for-Prelim-Exam/blob/main/ACT%203%3A" target="_blank" style="text-decoration: none; color: inherit;">SOCIAL MEDIA INFOGRAPHICS & PROJECT DOCUMENTATION</a></strong>
-  </summary>
-
-  <ul style="list-style-type: '➤ '; margin-top: 12px; margin-left: 20px;">
-    <li><strong>Main Activity Goal</strong>
-      <ul style="list-style-type: square; margin-top: 8px;">
-        <li>This activity aims to develop skills in information synthesis, data simplification, visual storytelling, and project documentation writing. These skills are essential for effective communication, problem solving, and digital content creation in the modern 21st century environment.</li>
-      </ul>
-    </li>
-  </ul>
-
-  <!-- TABLE INSIDE DROPDOWN -->
-   <table border="1" cellpadding="8" cellspacing="0" style="border-collapse: collapse; width: 100%; margin-top: 25px; margin-bottom: 20px;">
-  <table border="1" cellpadding="8" cellspacing="0" style="border-collapse: collapse; width: 100%; margin-top: 20px; margin-bottom: 20px; margin-left: 20px;">
-    <thead>
-      <tr>
-        <th></th>
-        <th style="text-align: center; font-weight: bold;">One Page Infographic</th>
-        <th style="text-align: center; font-weight: bold;">Project Documentation Report</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td><strong>Objective</strong></td>
-        <td>To present and simplify a real world problem using relevant information, data, and visual elements in a clear one page layout.</td>
-        <td>To write a short report proposing an solution (either technology-related or practical ones) to address the identified problem.</td>
-      </tr>
-      <tr>
-        <td><strong>Importance</strong></td>
-        <td>It turns complex information into quick, easy to digest visuals that capture attention and make data simple to understand.</td>
-        <td>It provides a clear written record of the problem, explains the solution in detail, and guides effective decision making.</td>
-      </tr>
-    </tbody>
-  </table>
-</details>
-
-<hr style="border: 1px solid #ccc; margin-bottom: 20px;">
-
-<h2>TOOLS & SITES USED</h2>
-<p>Here are the tools and sites I used when I created these activities. Each platform played a key role in improving the visual design and structural layout.</p>
-
-<p align="center">
-      <a href="https://www.canva.com/">
-        <img src="https://github.com/JJvisayaddu/Portfolio-for-Prelim-Exam/blob/main/canva.png" width="200" height="200" alt="Canva Logo" />
-      </a>
-    </p>
-    <div align="center">
-  <details>
-    <summary style="cursor: pointer;">
-      <h4 style="display: inline;">CANVA</h4>
-    </summary>
-
-  <br>
-  <p align="left">➤ <strong>Definition & Core Purpose:</strong> Canva is an easy-to-use digital design platform that lets anyone create professional graphics, presentations, and visual content without needing prior design experience.</p>
-
-  <p align="left">➤ <strong>How It Helps:</strong> Serves as a primary tool to quickly create and customize presentation slides, infographics, social media layouts, and portfolio visual assets.</p>
-
-  <p align="left">➤ <strong>Key Feature:</strong> Provides a vast library of pre-made templates along with a drag-and-drop editor for easy text, image, and color adjustments.</p>
-    <p align="left">➤ <strong>Primary Benefit:</strong> Saves significant time by allowing you to produce professional-quality graphic assets and visual structures in minutes.</p>
-  </details>
-</div>
-
-<p align="center">
-      <a href="https://www.google.com/webhp?hl=en&sa=X&sqi=2&ved=2ahUKEwiqpsunvNmWAxWRSGwGHQPBA1cQPHoECAYQBA">
-        <img src="https://github.com/JJvisayaddu/Portfolio-for-Prelim-Exam/blob/6d83b8beaeabb957c1b02e3c8ecd8af86578c4f1/google.jpg" width="200" height="200" alt="Google Logo" />
-      </a>
-    </p>
-
-   <div align="center">
-  <details>
-    <summary style="cursor: pointer;">
-      <h4 style="display: inline;">GOOGLE</h4>
-    </summary>
-
-   <br>
-   <p align="left">➤ <strong>Definition & Core Purpose:</strong> A leading search engine designed to organize information and make it easy to find online.</p>
-    <p align="left">➤ <strong>How It Helps:</strong> Acts as a primary research tool to search for accurate factual information, stock images, design inspiration, and general references.</p>
-    <p align="left">➤ <strong>Key Feature:</strong> Offers advanced search filters to easily pinpoint reliable sources, specific image types, and up-to-date articles.</p>
-    <p align="left">➤ <strong>Primary Benefit:</strong> Saves time by quickly delivering exact answers and visual examples from across the web.</p>
-  </details>
-</div>
-
-<p align="center">
-      <a href="https://github.com/">
-        <img src="https://github.com/JJvisayaddu/Portfolio-for-Prelim-Exam/blob/6d83b8beaeabb957c1b02e3c8ecd8af86578c4f1/github.png" width="200" height="200" alt="GitHub Logo" />
-      </a>
-    </p>
-
-   <div align="center">
-  <details>
-    <summary style="cursor: pointer;">
-      <h4 style="display: inline;">GITHUB</h4>
-    </summary>
-
-  <br>
-
-  <p align="left">➤ <strong>Definition & Core Purpose:</strong> A cloud-based platform used for hosting code, tracking changes, and building web projects.</p>
-    <p align="left">➤ <strong>How It Helps:</strong> Helps with learning code structure, previewing live results, building interactive READMEs, and organizing work into clean portfolio folders.</p>
-    <p align="left">➤ <strong>Key Feature:</strong> Uses repositories and folders to store project files, code scripts, and documentation in one place.</p>
-    <p align="left">➤ <strong>Primary Benefit:</strong> Showcase your technical work and design projects to others in a clean, professional online format.</p>
-  </details>
-</div>
-
-<p align="center">
-      <a href="https://docs.google.com/document/?usp=docs_ald&authuser=0">
-        <img src="https://github.com/JJvisayaddu/Portfolio-for-Prelim-Exam/blob/6d83b8beaeabb957c1b02e3c8ecd8af86578c4f1/google%20docs.jpg" width="200" height="200" alt="Google Docs Logo" />
-      </a>
-    </p>
-
-  <div align="center">
-  <details>
-    <summary style="cursor: pointer;">
-      <h4 style="display: inline;">GOOGLE DOCS</h4>
-    </summary>
-
-  <br>
-
-<p align="left">➤ <strong>Definition & Core Purpose:</strong> An online word processor designed for creating, editing, and saving text documents in your browser.</p>
-    <p align="left">➤ <strong>How It Helps:</strong> Serves as a flexible drafting space to write out initial text, edit activity content, and refine portfolio outlines.</p>
-    <p align="left">➤ <strong>Key Feature:</strong> Automatically saves every change you make in real time so you never lose your work.</p>
-    <p align="left">➤ <strong>Primary Benefit:</strong> Allows you to clean up and spell-check your writing before adding it into your final GitHub layout.</p>
-  </details>
-</div>
-
-<p align="center">
-      <a href="https://www.youtube.com/">
-        <img src="https://github.com/JJvisayaddu/Portfolio-for-Prelim-Exam/blob/9d0d218ac5c2c9bcbcfd2a43dd1025ef412bfa9c/Youtube.png" width="200" height="200" alt="YouTube Logo" />
-      </a>
-    </p>
-
-  <div align="center">
-  <details>
-    <summary style="cursor: pointer;">
-      <h4 style="display: inline;">YOUTUBE</h4>
-    </summary>
-    <br>
-
-<p align="left">➤ <strong>Definition & Core Purpose:</strong> A global video platform used for watching, sharing, and learning from video content.</p>
-
-   <p align="left">➤ <strong>How It Helps:</strong> Acts as a visual learning hub for watching step-by-step video tutorials, discovering creative ideas, and learning new tools.</p>
-    <p align="left">➤ <strong>Key Feature:</strong> Provides video search and categorized playlists so you can follow along with tutorials at your own pace.</p>
-    <p align="left">➤ <strong>Primary Benefit:</strong> Makes complex software tools and design concepts much easier to learn through step-by-step visual guides.</p>
-  </details>
-</div>
-
-<p align="center">
-      <a href="https://gemini.google.com/app">
-        <img src="https://github.com/JJvisayaddu/Portfolio-for-Prelim-Exam/blob/6d83b8beaeabb957c1b02e3c8ecd8af86578c4f1/gemini.jpg" width="200" height="200" alt="Google Gemini Logo" />
-      </a>
-    </p>
-
-  <div align="center">
-  <details>
-    <summary style="cursor: pointer;">
-      <h4 style="display: inline;">GOOGLE GEMINI</h4>
-    </summary>
-
-  <br>
-
-  <p align="left">➤ <strong>Definition & Core Purpose:</strong> An AI assistant built to process questions, generate ideas, and help create custom code snippets.</p>
-
-   <p align="left">➤ <strong>How It Helps:</strong> Assists with asking detailed questions and turning visual ideas or layout concepts directly into clean GitHub code without needing coding experience.</p>
-    <p align="left">➤ <strong>Key Feature:</strong> Instantly generates and formats HTML, CSS, and Markdown text based on direct instructions.</p>
-    <p align="left">➤ <strong>Primary Benefit:</strong> Speeds up project setup by fixing coding errors and writing exact layout code for your portfolio.</p>
-  </details>
-</div>
-
-***
-
-<details>
-<summary style="cursor: pointer;">
-  <h4 style="display: inline;">Key Takeaways</h4>
-</summary>
 
 <br>
 
-<p align="left">➤ <strong>Multiple Ways to Share Information</strong></p>
-<p align="left">&nbsp;&nbsp;&nbsp;&nbsp;• Information can be delivered in many ways, but how you present it determines how easily people understand it.</p>
-
-<p align="left">➤ <strong>Organized Ideas for Easy Understanding</strong></p>
-<p align="left">&nbsp;&nbsp;&nbsp;&nbsp;• Organizing information into clear presentations makes it much easier for people to get your message.</p>
-
-<p align="left">➤ <strong>Visual Arts as Efficient Communication</strong></p>
-<p align="left">&nbsp;&nbsp;&nbsp;&nbsp;• Visual design lets you convey complex ideas without lengthy explanations, sparing people the need to read dense, confusing text.</p>
-
-<p align="left">➤ <strong>Simplifying Heavy Content</strong></p>
-<p align="left">&nbsp;&nbsp;&nbsp;&nbsp;• Detailed reports are organized but can feel overwhelming. Presentations and infographics make heavy information visually appealing, easy to read, and not too overwhelming.</p>
-
-<p align="left">➤ <strong>Meaningful Design Elements</strong></p>
-<p align="left">&nbsp;&nbsp;&nbsp;&nbsp;• Design is more than just looks. Layouts, color choices, and simple icons carry real meaning and help people understand your main points right away.</p>
-
-<p align="left">➤ <strong>The Effort Behind Effective Design</strong></p>
-<p align="left">&nbsp;&nbsp;&nbsp;&nbsp;• Creating these designs is hard because it requires careful planning, creativity, and extra effort to make them unique, clear, and visually appealing.</p>
-
-<p align="left">➤ <strong>Attracting the Audience and Delivering the Information</strong></p>
-<p align="left">&nbsp;&nbsp;&nbsp;&nbsp;• Without designs, you can't attract everyone because plain, text-heavy content makes people feel bored and confused; and if it is a bad design, you can't convey your message clearly or hold your audience's attention.</p>
-<p align="left">&nbsp;&nbsp;&nbsp;&nbsp;• In addition, we need to carefully organize the ideas and relevant information we wish to share and convey. </p>
-
-</details>
+<!-- TABLE 1: 3-Column Picture & Music Waves Banner -->
+<div align="center">
+<table>
+  <tr>
+    <td width="30%" align="center" valign="middle">
+      <img src="https://github.com/JJvisayaddu/Portfolio-for-21st-Century-IT-Skills/blob/9471a27d327ffa7e2cc6c82c4d1a6b8b2cf19624/Images/Playlist%20pic%20(github).PNG" width="200" alt="Left Theme Image" />
+      <br><br>
+      <code>ılılıll|̲̅̅●̲̅̅|̲̅̅=̲̅̅|̲̅̅●̲̅̅|llılılı</code>
+      <br><br>
+      <a href="https://open.spotify.com/playlist/4htMneHWcX6xJh54VgXcBN?si=50115aa822994866" target="_blank">
+        <img src="https://img.shields.io/badge/NOW%20PLAYING-POV:%20UR IN A BAND-050811?style=for-the-badge&labelColor=0F294A&color=38BDF8" alt="Now Playing" />
+      </a>
+      <br><br>
+      <code>◄◄⠀▐▐ ⠀►►</code>
+      <br>
+      <code>01:24 ───●───── 03:45</code>
+    </td>
+    <td width="40%" align="center" valign="middle">
+      <img src="https://github.com/JJvisayaddu/Portfolio-for-21st-Century-IT-Skills/blob/261d8f53e83b33d0e740907efdeea7318bf64641/Images/Profile%20Picture%20(github).jpg" width="230" alt="[Your Name]" />
+      <br><br>
+      <img src="https://img.shields.io/badge/%E2%82%8A%CB%9A%E2%97%88%20%5BJJ%5D%20%E2%97%88%CB%9A%E2%82%8A-050811?style=for-the-badge&color=0F294A&labelColor=38BDF8" alt="[NICKNAME]" />
+      <br>
+      <b>ılılıll JESSIEJEAN VISAYA llılılı</b>
+    </td>
+    <td width="30%" align="center" valign="middle">
+      <img src="https://github.com/JJvisayaddu/Portfolio-for-21st-Century-IT-Skills/blob/9471a27d327ffa7e2cc6c82c4d1a6b8b2cf19624/Images/Games%20%26%20Sports%20(github).PNG" width="200" alt="Right Theme Image" />
+      <br><br>
+      <code>ılılıll|̲̅̅●̲̅̅|̲̅̅=̲̅̅|̲̅̅●̲̅̅|llılılı</code>
+      <br><br>
+      <img src="https://img.shields.io/badge/LIKES-GAMES%20%26%20SPORTS-050811?style=for-the-badge&labelColor=1E1B4B&color=06B6D4" />
+      <br><br>
+      <code>◄◄⠀▐▐ ⠀►►</code>
+      <br>
+      <code>VOLUME: ████████░░ 80%</code>
+    </td>
+  </tr>
+</table>
 </div>
 
+<br>
 
+<!-- TABLE 2: Full-Width Personal Info Card -->
+<div align="center">
+<table>
+  <tr>
+    <td colspan="2" width="100%" valign="top">
+      <h3 align="center">⚙️ Hey there! I'm Jessiejean Visaya ⚙️</h3>
+      <p align="justify">
+        You can call me <b>JJ</b>! I am a <b>3rd</b> <b>Bachelor of Science in Industrial Engineering</b> student from <b>3A</b> at <b>Ateneo de Davao University</b>. Being in a program that combines engineering, business, and technology, this subject helps me learn more about <b>digital tools and tech skills</b> that I can use in the future. Here you can find my coursework and activities for the semester.
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <ul>
+        <li><b>Program:</b> Bachelor of Science in Industrial Engineering (3A)</li>
+        <li><b>University:</b> Ateneo de Davao University</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <ul>
+        <li><b>Course:</b> 99-040 GE 4120: 21st Century IT Skills</li>
+        <li><b>Motto:</b> "Don't Give Up and Keep Going!"</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" width="100%" align="center" valign="middle">
+      <img src="https://img.shields.io/badge/ADDU-SEA%20-050811?style=for-the-badge&labelColor=0F294A&color=38BDF8" />
+      <img src="https://img.shields.io/badge/COURSE/YEAR/SECTION-BSIE 3A%20-050811?style=for-the-badge&labelColor=1E1B4B&color=06B6D4" />
+      <img src="https://img.shields.io/badge/LIKES-SPORTS,%20GAMES,%20%26%20DANCE-050811?style=for-the-badge&labelColor=0F294A&color=2563EB" />
+       <img src="https://img.shields.io/badge/COURSE-99040%20GE410-050811?style=for-the-badge&labelColor=0F294A&color=2563EB" />
+    </td>
+  </tr>
+</table>
+</div>
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0A192F&height=12" width="100%" />
+</div>
+
+<br>
+
+<div align="center">
+
+### 🎛️ ₊˚◈ About the Portfolio ◈˚₊ 🎛️
+
+`••• ılıllılı •••`
+
+</div>
+
+> **🔊** *Welcome to JJ’s Repository! This is a collection of my activities for 21st Century Skills in Prelim. It shows what I learned from our discussions by applying the lessons to real outputs. The repository highlights three main activities: presentation design principles, personal branding, and social media infographics with project documentation. Together, these outputs show my overall progress and understanding of 21st-century IT skills.*
+
+<div align="center">
+
+`─── ⚙️ ─── 🎧 ─── 🎮 ───`
+
+<div align="center">
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:050811,50:0F294A,100:2563EB&height=24" width="100%" />
+
+## 🦾 ₊˚◈ Journey &amp; Activities ◈˚₊ 📑
+
+`••• ─── ılıllılı ─── •••`
+
+
+### ⚡ ✨ Prelim Period ✨ ⚡
+
+<table>
+  <tr>
+    <td width="33%" align="center" valign="middle">
+      <br>
+      <b>⚙️ Activity 1 ⚙️</b>
+      <br><br>
+      <img src="[INSERT_ACTIVITY_1_PIC_URL]" width="180" alt="Activity 1" />
+      <br><br>
+      <b>[Activity 1 Title]</b>
+      <br><br>
+    </td>
+    <td width="33%" align="center" valign="middle">
+      <br>
+      <b>🎧 Activity 2 🎧</b>
+      <br><br>
+      <img src="[INSERT_ACTIVITY_2_PIC_URL]" width="180" alt="Activity 2" />
+      <br><br>
+      <b>[Activity 2 Title]</b>
+      <br><br>
+    </td>
+    <td width="33%" align="center" valign="middle">
+      <br>
+      <b>🎮 Activity 3 🎮</b>
+      <br><br>
+      <img src="[INSERT_ACTIVITY_3_PIC_URL]" width="180" alt="Activity 3" />
+      <br><br>
+      <b>[Activity 3 Title]</b>
+      <br><br>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" valign="middle">
+      <a href="[INSERT_ACTIVITY_1_LINK]" target="_blank">
+        <img src="https://img.shields.io/badge/%E2%9A%99%EF%B8%8F%20SYS-CLICK%20HERE%20TO%20VIEW-050811?style=for-the-badge&labelColor=0F294A&color=38BDF8" alt="View Activity 1" />
+      </a>
+    </td>
+    <td align="center" valign="middle">
+      <a href="[INSERT_ACTIVITY_2_LINK]" target="_blank">
+        <img src="https://img.shields.io/badge/%F0%9F%8E%A7%20PLAY-CLICK%20HERE%20TO%20VIEW-050811?style=for-the-badge&labelColor=1E1B4B&color=06B6D4" alt="View Activity 2" />
+      </a>
+    </td>
+    <td align="center" valign="middle">
+      <a href="[INSERT_ACTIVITY_3_LINK]" target="_blank">
+        <img src="https://img.shields.io/badge/%F0%9F%8E%AE%20START-CLICK%20HERE%20TO%20VIEW-050811?style=for-the-badge&labelColor=0F294A&color=2563EB" alt="View Activity 3" />
+      </a>
+    </td>
+  </tr>
+</table>
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:050811,50:0F294A,100:38BDF8&height=18" width="100%" />
+<br><br>
+<table>
+  <tr>
+    <td width="32%" align="center" valign="middle">
+      <img src="[INSERT_PRESENTATION_PIC_URL]" width="190" alt="Presentation Preview" />
+    </td>
+    <td width="68%" align="center" valign="middle">
+      <h3>🎧 [Presentation / Activity Title] 🎧</h3>
+      <p align="center">
+        [Write a brief description of your presentation, activity, or digital output here.]
+      </p>
+      <br>
+      <code>─── ılıllılı ───</code>
+      <br><br>
+      <code>◄◄</code>&nbsp;&nbsp;
+      <a href="[INSERT_PRESENTATION_LINK]" target="_blank">
+        <img src="https://img.shields.io/badge/%E2%96%B6%20PLAY-CLICK%20HERE%20TO%20VIEW-050811?style=for-the-badge&labelColor=0F294A&color=38BDF8" align="absmiddle" alt="Play / View Presentation" />
+      </a>
+      &nbsp;&nbsp;<code>►►</code>
+    </td>
+  </tr>
+</table>
+<br>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:050811,50:0F294A,100:2563EB&height=18" width="100%" />
+</div>
+<br>
+<div align="center">
+
+`[●─── ⚙️ ─── ılıllılı ─── ⚙️ ───●]`
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:050811,50:0F294A,100:38BDF8&height=24" width="100%" />
+
+### ⚙️ ✨ Midterm Period // SYS.MIDTERM ✨ ⚙️
+
+<br>
+
+<table>
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <br>
+      <code>─── ⚙️ SYS.REPORT // GROUP 03 ───</code>
+      <h3>🛠️ Face-to-Face Reporting 🛠️</h3>
+      <img src="[INSERT_FTFR_PIC_URL]" width="210" alt="Face-to-Face Reporting Preview" />
+      <br><br>
+      <p align="center">
+        In-class oral reporting session delivered with our Group 3 presentation deck. Click the button below to view the slides via Canva.
+      </p>
+      <br>
+      <code>[●─── ılıllılı ───●]</code>
+      <br><br>
+      <code>[●─</code>&nbsp;&nbsp;
+      <a href="[INSERT_FTFR_SLIDES_LINK]" target="_blank">
+        <img src="https://img.shields.io/badge/%E2%9A%99%EF%B8%8F%20SYS-CLICK%20HERE%20TO%20VIEW%20SLIDES-050811?style=for-the-badge&labelColor=0F294A&color=38BDF8" align="absmiddle" alt="Click Here to View Slides" />
+      </a>
+      &nbsp;&nbsp;<code>─●]</code>
+      <br><br>
+    </td>
+    <td width="50%" align="center" valign="top">
+      <br>
+      <code>─── 🎮 STAGE.02 // LAB_QUEST ───</code>
+      <h3>🕹️ Midterm Laboratory Examination 🕹️</h3>
+      <img src="[INSERT_MLE_PIC_URL]" width="210" alt="Midterm Laboratory Examination Preview" />
+      <br><br>
+      <p align="center">
+        Hands-on practical laboratory examination assessing applied technical and digital productivity skills. Click the button below to view my laboratory outputs via Google Drive.
+      </p>
+      <br>
+      <code>◀ ■ ─── ılıllılı ─── ■ ▶</code>
+      <br><br>
+      <code>◀ ■</code>&nbsp;&nbsp;
+      <a href="[INSERT_MLE_EXAM_LINK]" target="_blank">
+        <img src="https://img.shields.io/badge/%F0%9F%8E%AE%20START-CLICK%20HERE%20TO%20VIEW%20EXAM-050811?style=for-the-badge&labelColor=0F294A&color=2563EB" align="absmiddle" alt="Click Here to View Exam" />
+      </a>
+      &nbsp;&nbsp;<code>■ ▶</code>
+      <br><br>
+    </td>
+  </tr>
+</table>
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:050811,50:0F294A,100:2563EB&height=24" width="100%" />
+
+</div>
+
+<div align="center">
+
+`[●─── ⚙️ ─── ılıllılı ─── ◀■ ───●]`
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:050811,50:0F294A,100:38BDF8&height=24" width="100%" />
+
+### ⚙️ ✨ Prefinals Period ✨ 🎮
+
+<br>
+
+<table>
+  <tr>
+    <td width="33%" align="center" valign="top">
+      <br>
+      <code>─── ⚙️ SYS.05 ───</code>
+      <br><br>
+      <b>🤖 Activity 5 🤖</b>
+      <br><br>
+      <img src="[INSERT_ACTIVITY_5_PIC_URL]" width="180" alt="AI Tools & Prompt Engineering" />
+      <br><br>
+      <b>AI Tools &amp; Prompt Engineering</b>
+      <br><br>
+      <p align="center">
+        Utilizing AI tools to craft effective prompts, featuring a comparison between a poor prompt and a detailed prompt to highlight the difference in AI output.
+      </p>
+      <br>
+    </td>
+    <td width="33%" align="center" valign="top">
+      <br>
+      <code>─── 🎧 TRACK.06 ───</code>
+      <br><br>
+      <b>🌐 Activity 6 🌐</b>
+      <br><br>
+      <img src="[INSERT_ACTIVITY_6_PIC_URL]" width="180" alt="AI-Assisted Website Creation" />
+      <br><br>
+      <b>AI-Assisted Website Creation</b>
+      <br><br>
+      <p align="center">
+        Designing and building a functional website using Google Sites with the integration and assistance of AI tools.
+      </p>
+      <br>
+    </td>
+    <td width="33%" align="center" valign="top">
+      <br>
+      <code>─── 🎮 STAGE.07 ───</code>
+      <br><br>
+      <b>📄 Activity 7 📄</b>
+      <br><br>
+      <img src="[INSERT_ACTIVITY_7_PIC_URL]" width="180" alt="AI-Powered Resume Generation" />
+      <br><br>
+      <b>AI-Powered Resume Generation</b>
+      <br><br>
+      <p align="center">
+        Creating and refining a professional resume through strategic AI utilization.
+      </p>
+      <br>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" valign="middle">
+      <br>
+      <code>[●─</code>&nbsp;&nbsp;
+      <a href="[INSERT_ACTIVITY_5_LINK]" target="_blank">
+        <img src="https://img.shields.io/badge/%E2%9A%99%EF%B8%8F%20SYS-CLICK%20HERE%20TO%20VIEW-050811?style=for-the-badge&labelColor=0F294A&color=38BDF8" align="absmiddle" alt="View Activity 5" />
+      </a>
+      &nbsp;&nbsp;<code>─●]</code>
+      <br><br>
+    </td>
+    <td align="center" valign="middle">
+      <br>
+      <code>◄◄</code>&nbsp;&nbsp;
+      <a href="[INSERT_ACTIVITY_6_LINK]" target="_blank">
+        <img src="https://img.shields.io/badge/%F0%9F%8E%A7%20PLAY-CLICK%20HERE%20TO%20VIEW-050811?style=for-the-badge&labelColor=1E1B4B&color=06B6D4" align="absmiddle" alt="View Activity 6" />
+      </a>
+      &nbsp;&nbsp;<code>►►</code>
+      <br><br>
+    </td>
+    <td align="center" valign="middle">
+      <br>
+      <code>◀■</code>&nbsp;&nbsp;
+      <a href="[INSERT_ACTIVITY_7_LINK]" target="_blank">
+        <img src="https://img.shields.io/badge/%F0%9F%8E%AE%20START-CLICK%20HERE%20TO%20VIEW-050811?style=for-the-badge&labelColor=0F294A&color=2563EB" align="absmiddle" alt="View Activity 7" />
+      </a>
+      &nbsp;&nbsp;<code>■▶</code>
+      <br><br>
+    </td>
+  </tr>
+</table>
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:050811,50:0F294A,100:2563EB&height=18" width="100%" />
+
+<br>
+
+<table>
+  <tr>
+    <td width="100%" align="center" valign="middle">
+      <br>
+      <code>─── ⚙️ SYS.FINAL_BUILD // PORTFOLIO ───</code>
+      <h3>🖥️ Prefinal Examination: GitHub Repository Enhancement 🖥️</h3>
+      <img src="[INSERT_PREFINAL_EXAM_PIC_URL]" width="240" alt="Prefinal Examination Preview" />
+      <br><br>
+      <p align="center">
+        Upgrading, organizing, and redesigning this GitHub repository into a cohesive, aesthetic, and well-structured digital portfolio.
+      </p>
+      <br>
+      <code>[●─── ılıllılı ───●]</code>
+      <br><br>
+      <code>[●─</code>&nbsp;&nbsp;
+      <a href="#top">
+        <img src="https://img.shields.io/badge/%E2%9A%99%EF%B8%8F%20SYS-VIEWING%20NOW-050811?style=for-the-badge&labelColor=0F294A&color=38BDF8" align="absmiddle" alt="Viewing Now" />
+      </a>
+      &nbsp;&nbsp;<code>─●]</code>
+      <br><br>
+    </td>
+  </tr>
+</table>
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:050811,50:0F294A,100:38BDF8&height=24" width="100%" />
+
+</div>
+<div align="center">
+
+`◄◄ ─── ılıllılı ─── ►►`
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:050811,50:1E1B4B,100:06B6D4&height=24" width="100%" />
+
+### 🎧 ✨ Course Reflection &amp; Gratitude ✨ 🎧
+
+<br>
+
+<table>
+  <tr>
+    <td width="66%" align="left" valign="middle">
+      <br>
+      <div align="center">
+        <code>─── 🎧 TRACK.OUTRO // REFLECTION ───</code>
+        <h3>🎶 A Little Note &amp; Reflection 🎶</h3>
+      </div>
+      <p align="left">
+        [Write your course reflection, key takeaways, and gratitude note here.]
+      </p>
+      <p align="left">
+        [Add a second paragraph reflecting on how these tools and workflows connect to your engineering and project work.]
+      </p>
+      <p align="left">
+        [Add your thank-you note to your instructor/classmates here.]
+      </p>
+      <br>
+      <p align="left">
+        <i>Sincerely,</i><br>
+        <b>[Your Name]</b>
+      </p>
+      <br>
+    </td>
+    <td width="34%" align="center" valign="middle">
+      <br>
+      <img src="[INSERT_REFLECTION_PIC_URL]" width="190" alt="Profile / Reflection Photo" />
+      <br><br>
+      <b>🎧 [Your Name / Artist Tag] 🎧</b>
+      <br>
+      <code>ılılıll|̲̅̅●̲̅̅|̲̅̅=̲̅̅|̲̅̅●̲̅̅|llılılı</code>
+      <br>
+      <br><br>
+      <code>◄◄</code>&nbsp;&nbsp;<img src="https://img.shields.io/badge/%F0%9F%8E%A7%20PLAY-SPOTIFY%20TRACK-050811?style=for-the-badge&labelColor=1E1B4B&color=06B6D4" alt="Play on Spotify" /></a>&nbsp;&nbsp;<code>►►</code>
+      </a>
+      <br><br>
+    </td>
+  </tr>
+</table>
+
+<br>
+
+`◄◄ ─── ılıllılı ─── ►►`
+<br>
+<b>Thank you for visiting! 🎧 ✨</b>
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:050811,50:0F294A,100:06B6D4&height=24" width="100%" />
+
+</div>

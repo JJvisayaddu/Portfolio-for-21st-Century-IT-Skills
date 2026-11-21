@@ -191,7 +191,7 @@
 
 </details>
 
-<br><br>
+<br>
 
 <!-- ==================== NAVIGATION FOOTER ==================== -->
 <code>[●─</code>&nbsp;&nbsp;

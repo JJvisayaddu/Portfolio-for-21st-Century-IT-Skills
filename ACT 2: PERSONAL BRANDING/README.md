@@ -10,7 +10,6 @@
 
 <code>◄◄ ─── TRACK 02 // VISUAL IDENTITY &amp; BRAND ARCHITECTURE ─── ►►</code>
 
-<br><br>
 
 <!-- ==================== HERO SPLIT: LOGO + EXPLANATION ==================== -->
 <table>
@@ -247,7 +246,7 @@ I decided to build this branding kit around <em>ube (Dioscorea alata)</em>, a we
 
 </details>
 
-<br><br>
+<br>
 
 <!-- ==================== NAVIGATION FOOTER (3-WAY: PREV / HOME / NEXT) ==================== -->
 <div align="center">

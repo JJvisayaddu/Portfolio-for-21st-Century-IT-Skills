@@ -1,55 +1,73 @@
-<img src="https://github.com/JJvisayaddu/Portfolio-for-21st-Century-IT-Skills/blob/aee2762c75d164af0a5bbbeb9af1116ae660a493/ACT%204%3A%20PRESENTATION%20(GOOGLE%20WORKSPACE%20-%20GOOGLE%20DRIVE)%20(MIDTERMS)/act%204%20header.jpg" width="1000" height="500" />
-
 <div align="center">
 
-# ACT 4: PRESENTATION OF GOOGLE WORKSPACE
+<h4><code>[●─── ⚙️ ─── SYS.ACT_04 // GOOGLE_WORKSPACE_&_DRIVE ─── ⚙️ ───●]</code></h4>
+<br>
+
+<img src="https://github.com/JJvisayaddu/Portfolio-for-21st-Century-IT-Skills/blob/aee2762c75d164af0a5bbbeb9af1116ae660a493/ACT%204%3A%20PRESENTATION%20(GOOGLE%20WORKSPACE%20-%20GOOGLE%20DRIVE)%20(MIDTERMS)/act%204%20header.jpg" width="1000" height="500" alt="Act 4 Header" />
+
+# ⚙️ ACT 4: PRESENTATION OF GOOGLE WORKSPACE ⚙️
+
+<code>[●─── ⚙️ ─── ılıllılı ─── ⚙️ ───●]</code>
 
 </div>
 
 <br>
 
-<p align="Justify">
+<p align="justify">
   Google Workspace, previously known as G Suite, is a cloud-based suite of productivity and collaboration tools. It allows teams to store files, manage communications, and work together efficiently from anywhere online.
   
   My group members and I were tasked to present one of the main tools in Google Workspace, which is Google Drive, so that everyone can learn how to easily organize files, share documents, and collaborate online. This activity details the definitions, connected apps, storage limits, and key features, and other details about Google Drive.
 </p>
 
 <br>
-<hr style="border: 1px solid #ccc;">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:050811,50:0F294A,100:2563EB&height=18" width="100%" />
+
+<br>
+
+<div align="center">
 
 <a href="https://www.canva.com/design/DAHWCBFRf5g/RksCbVxbxBn6wwsmeb5jXg/edit?ui=eyJBIjp7fX0&fbclid=IwY2xjawU5ZptleHRuA2FlbQIxMABwZG9mAWJyaWQRMExXWHNMVmIyT01xS2xQRkRzcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyAAEeUeQrM09SsTlpweJzoj59rLDVEgqSsRYjbuxJYm6ejz91oIvLKSV2IBxkbjc_aem_0G1AgwcI1xPOl4U4QbkIOw" target="_blank">
   <img src="https://github.com/JJvisayaddu/Portfolio-for-21st-Century-IT-Skills/blob/aee2762c75d164af0a5bbbeb9af1116ae660a493/ACT%204%3A%20PRESENTATION%20(GOOGLE%20WORKSPACE%20-%20GOOGLE%20DRIVE)%20(MIDTERMS)/act%204%20header%202.PNG" width="1000" height="500" alt="Google Drive Header" />
 </a>
 
-<div align="center">
+# ⚙️ GOOGLE DRIVE ⚙️
 
-# GOOGLE DRIVE
+<br>
+
+<code>[●─</code>&nbsp;&nbsp;
+<a href="https://www.canva.com/design/DAHWCBFRf5g/RksCbVxbxBn6wwsmeb5jXg/edit?ui=eyJBIjp7fX0&fbclid=IwY2xjawU5ZptleHRuA2FlbQIxMABwZG9mAWJyaWQRMExXWHNMVmIyT01xS2xQRkRzcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyAAEeUeQrM09SsTlpweJzoj59rLDVEgqSsRYjbuxJYm6ejz91oIvLKSV2IBxkbjc_aem_0G1AgwcI1xPOl4U4QbkIOw" target="_blank">
+  <img src="https://img.shields.io/badge/%E2%9A%99%EF%B8%8F%20SYS-VIEW%20PRESENTATION%20IN%20CANVA-050811?style=for-the-badge&labelColor=0F294A&color=38BDF8" align="absmiddle" alt="View Presentation in Canva" />
+</a>
+&nbsp;&nbsp;<code>─●]</code>
 
 </div>
 
 <br>
 
-<details>
-<summary><b>What?</b></summary>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:050811,50:0F294A,100:2563EB&height=24" width="100%" />
+
+<div align="center">
+
+### ⚙️ SYS.SPEC // What? ⚙️
+
+</div>
+
+- It is a cloud storage and synchronization service developed by Google that allows users to store, share, synchronize, and edit files, folders, and other files that were made from Google.
+- Google Drive was officially launched on April 24, 2012. It was made available on multiple platforms, including Windows, MacOS, Android, and a website interface. Shortly after its initial release, the iOS app was made available in June 2012.
+- Google Drive reached over 2 billion monthly active users globally, held 7.43% market share in the file-sharing category, and generated 2.4 billion visits to drive.google.com.
 
 <br>
 
-* It is a cloud storage and synchronization service developed by Google that allows users to store, share, synchronize, and edit files, folders, and other files that were made from Google.
-* Google Drive was officially launched on April 24, 2012. It was made available on multiple platforms, including Windows, MacOS, Android, and a website interface. Shortly after its initial release, the iOS app was made available in June 2012.
-* Google Drive reached over 2 billion monthly active users globally, held 7.43% market share in the file-sharing category, and generated 2.4 billion visits to drive.google.com.
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:050811,50:0F294A,100:2563EB&height=24" width="100%" />
 
-</details>
+<div align="center">
 
-<br>
+### ⚙️ SYS.LOGIC // Purpose ⚙️
 
-<details>
-<summary><b>Purpose</b></summary>
-
-<br>
+</div>
 
 <p>Google Drive is a cloud-based storage platform built to simplify digital management and collaboration. Its main purposes are:</p>
-
-<br>
 
 | Purpose | Description |
 | :--- | :--- |
@@ -57,13 +75,13 @@
 | **Easy Sharing** | To send documents, photos, or folders to family, friends, or coworkers with just a few clicks. |
 | **Teamwork** | To let multiple people work on the same project or document together at the same time. |
 
-</details>
 <br>
 
-<details>
-<summary><b>Did you know?</b></summary>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:050811,50:0F294A,100:2563EB&height=24" width="100%" />
 
-<br>
+<div align="center">
+
+### ⚙️ SYS.INFO // Did you know? ⚙️
 
 |<div align="center">Keep Everything, Share Anything</div>|
 | :--- |
@@ -75,14 +93,15 @@
 | :--- |
 |<p align="justify">Google Drive serves as a key component of G Suite, a monthly subscription plan offered by Google for businesses and organizations because it acts as the central hub where all files, documents, sheets, slides, and media are securely stored, organized, and synced in the cloud.</p>|
 
-</details>
+</div>
 
 <br>
 
-<details>
-<summary><b>Features/Characteristics</b></summary>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:050811,50:0F294A,100:2563EB&height=24" width="100%" />
 
-<br>
+<div align="center">
+
+### ⚙️ SYS.MODULES // Features/Characteristics ⚙️
 
 | Features | Explanation |
 | :--- | :--- |
@@ -91,18 +110,19 @@
 | **Accessing files from anywhere** | Users can open their files on any phone, tablet, or computer. They can even set files up to work offline. |
 | **Secure storage** | Files are protected with strong encryption (AES256 or AES128), keeping them just as safe as a user's other Google accounts. |
 
-</details>
+</div>
 
 <br>
 
-<details>
-<summary><b>Advantages and Disadvantages</b></summary>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:050811,50:0F294A,100:2563EB&height=24" width="100%" />
 
-<br>
+<div align="center">
+
+### ⚙️ SYS.EVAL // Advantages and Disadvantages ⚙️
+
+</div>
 
 <p>Here are the advantages and disadvantages of Google Drive:</p>
-
-<br>
 
 | Advantages | Disadvantages |
 | :--- | :--- |
@@ -112,50 +132,52 @@
 | **File sharing and permissions**<br><br>People who own files or folders can easily share them and choose whether others can view, comment on, or edit them. | **File size limitations**<br><br>There is a daily upload limit of 750 GB per user for individual files. |
 | **Cross-platform availability**<br><br>Google Drive can be used in web browsers, desktop apps, and mobile apps. | |
 
-</details>
-
 <br>
 
-<details>
-<summary><b>Apps</b></summary>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:050811,50:0F294A,100:2563EB&height=24" width="100%" />
 
-<br>
+<div align="center">
+
+### ⚙️ SYS.NODES // Apps ⚙️
+
+</div>
 
 <p>Google Drive provides shared storage for all files created and used within the Google Workspace.</p>
 
 <p>Here are the websites, apps that can be appeared in Google Drive</p>
 
-* [Google Docs](https://drive.google.com/drive/my-drive?q=type:document%20parent:0AJ_OfS0EFKi2Uk9PVA)
-* [Google Sheets](https://drive.google.com/drive/my-drive?q=type:spreadsheet%20parent:0AJ_OfS0EFKi2Uk9PVA)
-* [Google Slides](https://drive.google.com/drive/my-drive?q=type:presentation%20parent:0AJ_OfS0EFKi2Uk9PVA)
-* [Google Forms](https://drive.google.com/drive/my-drive?q=type:form%20parent:0AJ_OfS0EFKi2Uk9PVA)
-* [Google Site](https://drive.google.com/drive/my-drive?q=type:site%20parent:0AJ_OfS0EFKi2Uk9PVA)
-* [Google Videos](https://drive.google.com/drive/my-drive?q=type:vids%20parent:0AJ_OfS0EFKi2Uk9PVA)
-* [Videos](https://drive.google.com/drive/my-drive?q=type:video%20parent:0AJ_OfS0EFKi2Uk9PVA)
-* [Photo & Images](https://drive.google.com/drive/my-drive?q=type:image%20parent:0AJ_OfS0EFKi2Uk9PVA)
-* [Audio](https://drive.google.com/drive/my-drive?q=type:audio%20parent:0AJ_OfS0EFKi2Uk9PVA)
-* [Drawings](https://drive.google.com/drive/my-drive?q=type:drawing%20parent:0AJ_OfS0EFKi2Uk9PVA)
-* [PDFs](https://drive.google.com/drive/my-drive?q=type:pdf%20parent:0AJ_OfS0EFKi2Uk9PVA)
-* [Archives (zip)](https://drive.google.com/drive/my-drive?q=type:archive%20parent:0AJ_OfS0EFKi2Uk9PVA)
-* [Folders](https://drive.google.com/drive/my-drive?q=type:folder%20parent:0AJ_OfS0EFKi2Uk9PVA)
-</details>
+- [Google Docs](https://drive.google.com/drive/my-drive?q=type:document%20parent:0AJ_OfS0EFKi2Uk9PVA)
+- [Google Sheets](https://drive.google.com/drive/my-drive?q=type:spreadsheet%20parent:0AJ_OfS0EFKi2Uk9PVA)
+- [Google Slides](https://drive.google.com/drive/my-drive?q=type:presentation%20parent:0AJ_OfS0EFKi2Uk9PVA)
+- [Google Forms](https://drive.google.com/drive/my-drive?q=type:form%20parent:0AJ_OfS0EFKi2Uk9PVA)
+- [Google Site](https://drive.google.com/drive/my-drive?q=type:site%20parent:0AJ_OfS0EFKi2Uk9PVA)
+- [Google Videos](https://drive.google.com/drive/my-drive?q=type:vids%20parent:0AJ_OfS0EFKi2Uk9PVA)
+- [Videos](https://drive.google.com/drive/my-drive?q=type:video%20parent:0AJ_OfS0EFKi2Uk9PVA)
+- [Photo &amp; Images](https://drive.google.com/drive/my-drive?q=type:image%20parent:0AJ_OfS0EFKi2Uk9PVA)
+- [Audio](https://drive.google.com/drive/my-drive?q=type:audio%20parent:0AJ_OfS0EFKi2Uk9PVA)
+- [Drawings](https://drive.google.com/drive/my-drive?q=type:drawing%20parent:0AJ_OfS0EFKi2Uk9PVA)
+- [PDFs](https://drive.google.com/drive/my-drive?q=type:pdf%20parent:0AJ_OfS0EFKi2Uk9PVA)
+- [Archives (zip)](https://drive.google.com/drive/my-drive?q=type:archive%20parent:0AJ_OfS0EFKi2Uk9PVA)
+- [Folders](https://drive.google.com/drive/my-drive?q=type:folder%20parent:0AJ_OfS0EFKi2Uk9PVA)
 
 <br>
 
-<details>
-<summary><b><a href="https://one.google.com/intl/en_ph/about/#compare-plans">Storage Spaces for Google Drive</a></b></summary>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:050811,50:0F294A,100:2563EB&height=24" width="100%" />
 
-<br>
+<div align="center">
+
+### ⚙️ SYS.CAPACITY // [Storage Spaces for Google Drive](https://one.google.com/intl/en_ph/about/#compare-plans) ⚙️
 
 *(Click the title to see the Google One plans)*
 
-<br>
+</div>
 
 <p align="justify">➤ Google Drive serves as a key component of G Suite, which is Google's monthly subscription offering designed for businesses and organizations.</p>
 
 <p>Since Google Drive is like a storage for files of any Google app, it offers a variety of memory spaces to store more files.</p>
 
 <br>
+
 <div align="center">
 
 | Name | Bytes (Space) | Price |
@@ -170,18 +192,18 @@
 | **Google AI Ultra 20x** | 30 TB | ₱11,900 |
 
 </div>
-</details>
 
 <br>
 
-<details>
-<summary><b>Additional Information About Google Drive</b></summary>
-
-<br>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:050811,50:0F294A,100:2563EB&height=24" width="100%" />
 
 <div align="center">
 
-### Version History
+### ⚙️ SYS.EXTRAS // Additional Information About Google Drive ⚙️
+
+<br>
+
+#### Version History
 
 | Explanation | Example |
 | :--- | :--- |
@@ -189,19 +211,15 @@
 
 <br>
 
-### File Recovery
+#### File Recovery
 
 | Explanation | Example |
 | :--- | :--- |
 | <p align="justify">When we accidentally delete a file, it doesn't immediately disappear permanently. Deleted files can be moved to the Trash, where they may still be restored within the available retention period.</p> | <p align="justify">For example, if we accidentally delete an important school requirement, we can check the Trash and restore the file if it is still available.</p> |
 
-</div>
+<br>
 
-
-
-<div align="center">
-
-### Search Function
+#### Search Function
 
 | Explanation | Example |
 | :--- | :--- |
@@ -209,18 +227,44 @@
 
 <br>
 
-### File Sharing Through Links
+#### File Sharing Through Links
 
 | Explanation | Example |
 | :--- | :--- |
 | <p align="justify">Aside from directly sharing a file with a specific person, Google Drive also allows users to share files through a link. When creating a link, the owner can control the access of other people.</p> | <p align="justify">For example, we can set the file so that someone can only view it, comment on it, or edit it. So before sharing a link, it's important to check the permission settings to make sure that only the intended people can access or change the file.</p> |
 
 </div>
-</details>
-<br>
-<hr style="border: 1px solid #ccc;">
-<br>
-
-<p align="center"><i>(Note: click the google drive header for the view of presentation)</i></p>
 
 <br>
+
+<div align="center">
+
+<br>
+
+<div align="center">
+
+<code>◀■</code>&nbsp;
+<a href="[INSERT_ACT_3_LINK]">
+  <img src="https://img.shields.io/badge/%F0%9F%8E%AE%20PREV-ACT%2003-050811?style=for-the-badge&labelColor=0F294A&color=2563EB" align="absmiddle" alt="Previous: Act 03" />
+</a>
+&nbsp;<code>■▶</code>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<code>[●─</code>&nbsp;
+<a href="[INSERT_MAIN_REPO_LINK]">
+  <img src="https://img.shields.io/badge/%E2%9A%99%EF%B8%8F%20SYS-MAIN%20PORTFOLIO-050811?style=for-the-badge&labelColor=0F294A&color=38BDF8" align="absmiddle" alt="Main Portfolio" />
+</a>
+&nbsp;<code>─●]</code>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<code>◀■</code>&nbsp;
+<a href="[INSERT_ACT_5_LINK]">
+  <img src="https://img.shields.io/badge/%F0%9F%8E%AE%20NEXT-ACT%2005-050811?style=for-the-badge&labelColor=0F294A&color=2563EB" align="absmiddle" alt="Next: Act 05" />
+</a>
+&nbsp;<code>■▶</code>
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:050811,50:0F294A,100:2563EB&height=24" width="100%" />
+
+<h4><code>[●─── ⚙️ ─── ılıllılı ─── 🎮 ─── ■▶]</code></h4>
+
+</div>

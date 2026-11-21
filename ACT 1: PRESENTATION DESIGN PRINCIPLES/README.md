@@ -199,7 +199,7 @@
   <img src="https://img.shields.io/badge/%E2%9A%99%EF%B8%8F%20SYS-RETURN%20TO%20MAIN%20PORTFOLIO-050811?style=for-the-badge&labelColor=0F294A&color=2563EB" align="absmiddle" alt="Return to Main Portfolio" />
 </a>
 &nbsp;&nbsp;
-&nbsp;&nbsp;<a href="https://github.com/JJvisayaddu/Portfolio-for-21st-Century-IT-Skills/blob/3d33137e5d05c22c2ef0b048e533298cc82a824a/ACT%202%3A%20PERSONAL%20BRANDING/README.md">
+&nbsp;&nbsp;<a href="https://github.com/JJvisayaddu/Portfolio-for-21st-Century-IT-Skills/blob/3985f3a1a12899fe055bb6974c04f13954246883/ACT%202%3A%20PERSONAL%20BRANDING/README.md">
         <img src="https://img.shields.io/badge/%F0%9F%8E%A7%20NEXT-PROCEED%20TO%20ACT%2002-050811?style=for-the-badge&labelColor=1E1B4B&color=06B6D4" align="absmiddle" alt="Proceed to Act 02" />
       </a>
       &nbsp;&nbsp;<code>►►</code>

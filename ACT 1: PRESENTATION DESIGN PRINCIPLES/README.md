@@ -195,7 +195,7 @@
 
 <!-- ==================== NAVIGATION FOOTER ==================== -->
 <code>[●─</code>&nbsp;&nbsp;
-<a href="[INSERT_MAIN_REPO_LINK]">
+<a href="https://github.com/JJvisayaddu/Portfolio-for-21st-Century-IT-Skills/blob/6f6806a65343aca2aab4a55890a9522806eb2989/README.md">
   <img src="https://img.shields.io/badge/%E2%9A%99%EF%B8%8F%20SYS-RETURN%20TO%20MAIN%20PORTFOLIO-050811?style=for-the-badge&labelColor=0F294A&color=2563EB" align="absmiddle" alt="Return to Main Portfolio" />
 </a>
 &nbsp;&nbsp;<code>─●]</code>

@@ -204,10 +204,10 @@
       </a>
       &nbsp;&nbsp;<code>►►</code>
 
-<h4><code>[●─── ⚙️ ─── ılıllılı ─── 🎧 ───●]</code></h4>
-
 <br>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:050811,50:0F294A,100:2563EB&height=24" width="100%" />
+
+<h4><code>[●─── ⚙️ ─── ılıllılı ─── 🎧 ───●]</code></h4>
 
 </div>

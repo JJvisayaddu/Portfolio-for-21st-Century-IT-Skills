@@ -256,26 +256,22 @@ I decided to build this branding kit around <em>ube (Dioscorea alata)</em>, a we
 <a href="https://github.com/JJvisayaddu/Portfolio-for-21st-Century-IT-Skills/blob/3d33137e5d05c22c2ef0b048e533298cc82a824a/ACT%201%3A%20PRESENTATION%20DESIGN%20PRINCIPLES/README.md">
   <img src="https://img.shields.io/badge/%E2%9A%99%EF%B8%8F%20PREV-ACT%2001-050811?style=for-the-badge&labelColor=0F294A&color=38BDF8" align="absmiddle" alt="Previous: Act 01" />
 </a>
-&nbsp;<code>─●]</code>
+&nbsp;
 &nbsp;&nbsp;&nbsp;&nbsp;
-<code>◄◄</code>&nbsp;
+&nbsp;
 <a href="https://github.com/JJvisayaddu/Portfolio-for-21st-Century-IT-Skills/blob/6f6806a65343aca2aab4a55890a9522806eb2989/README.md">
-  <img src="https://img.shields.io/badge/%F0%9F%8E%A7%20HOME-MAIN%20PORTFOLIO-050811?style=for-the-badge&labelColor=1E1B4B&color=06B6D4" align="absmiddle" alt="Main Portfolio" />
+  <img src="https://img.shields.io/badge/%F0%9F%8E%A7%20HOME-MAIN%20PORTFOLIO-050811?style=for-the-badge&labelColor=1E1B4B&color=06B6D4" align="absmiddle" alt="Main Portfolio"/>
 </a>
-&nbsp;<code>►►</code>
+&nbsp;
 &nbsp;&nbsp;&nbsp;&nbsp;
-<code>◀■</code>&nbsp;
+&nbsp;
 <a href="https://github.com/JJvisayaddu/Portfolio-for-21st-Century-IT-Skills/blob/3d33137e5d05c22c2ef0b048e533298cc82a824a/ACT%203%3A%20SOCIAL%20MEDIA%20INFOGRAPHICS%20%26%20PROJECT%20DOCUMENTATION/README.md">
   <img src="https://img.shields.io/badge/%F0%9F%8E%AE%20NEXT-ACT%2003-050811?style=for-the-badge&labelColor=0F294A&color=2563EB" align="absmiddle" alt="Next: Act 03" />
 </a>
-&nbsp;<code>■▶</code>
+&nbsp;<code>■ ▶</code>
 
-<br><br>
-
-<h4><code>◄◄ ─── 🎧 ─── ılıllılı ─── 🎮 ─── ■▶</code></h4>
-
-<br>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:050811,50:1E1B4B,100:06B6D4&height=24" width="100%" />
 
+<h4><code>◄◄ ─── 🎧 ─── ılıllılı ─── 🎮 ─── ►►</code></h4>
 </div>

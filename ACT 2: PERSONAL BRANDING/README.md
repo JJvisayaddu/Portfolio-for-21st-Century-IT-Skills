@@ -6,7 +6,7 @@
 
 <img src="https://github.com/JJvisayaddu/Portfolio-for-Prelim-Exam/blob/b20df4509463eeccb932677a42dd4889d25a976e/act%202%20header.PNG" width="100%" alt="Act 2 Header" />
 
-## 🎧 ACT 2: PERSONAL BRANDING 🎧
+## 🎧 ACT 2: PERSONAL BRANDING 🎧 
 
 <code>◄◄ ─── TRACK 02 // VISUAL IDENTITY &amp; BRAND ARCHITECTURE ─── ►►</code>
 

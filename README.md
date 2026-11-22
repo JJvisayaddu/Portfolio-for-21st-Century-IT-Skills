@@ -346,7 +346,9 @@
       <img src="https://github.com/JJvisayaddu/Portfolio-for-21st-Century-IT-Skills/blob/b04b40efa2636171963983535753c68cf7ebead8/github%20prefi%20cover.PNG" width="240" alt="Prefinal Examination Preview" />
       <br><br>
       <p>
-    Compiled all of my course activities into a GitHub portfolio and redesigned the repository layout to match my personal interests in engineering, music, and gaming. (Credits to Princess Hannah Bea Maramara for the inspired repository layout, structure, info, and codes.)
+    Compiled all of my course activities into a GitHub portfolio and redesigned the repository layout to match my personal interests in engineering, music, and gaming. </p>
+      <p>
+        (Credits to Princess Hannah Bea Maramara for the inspired repository layout, structure, info, and codes.)
   </p>
       <br>
       <code>[●─── ılıllılı ───●]</code>
@@ -408,9 +410,8 @@ Moving forward, these lessons will be very useful in my future career as an engi
       <img src="https://github.com/JJvisayaddu/Portfolio-for-21st-Century-IT-Skills/blob/b04b40efa2636171963983535753c68cf7ebead8/Profile%20Picture%202%20(github).jpg" width="190" alt="Profile / Reflection Photo" />
       <br><br>
       <b>🎧 J.J. 🎧</b>
-      <br>
+      <br><br>
       <code>ılılıll|̲̅̅●̲̅̅|̲̅̅=̲̅̅|̲̅̅●̲̅̅|llılılı</code>
-      <br>
       <br><br>
       <code>◄◄</code>&nbsp;&nbsp;<a href="https://open.spotify.com/playlist/1XZziwW7BJQEBHewndZYx1?si=e6b646fb61144fc4" target="_blank"><img src="https://img.shields.io/badge/%F0%9F%8E%A7%20PLAY-SPOTIFY%20TRACK-050811?style=for-the-badge&labelColor=1E1B4B&color=06B6D4" alt="Play on Spotify" /></a>&nbsp;&nbsp;<code>►►</code>
       </a>

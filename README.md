@@ -387,18 +387,19 @@
         <h3>🎶 A Little Note &amp; Reflection 🎶</h3>
       </div>
       <p align="left">
-        [Write your course reflection, key takeaways, and gratitude note here.]
+        This subject helped me build stronger digital and technical skills. I am glad I took this course because I discovered helpful platforms like GitHub, learned practical features in Google Workspace apps, and picked up key design principles for creating clean layouts in Canva and other tools. Working on my GitHub portfolio also brought back lessons from my computer programming class, since understanding how code works made it much easier to customize and fix my repository layout.
+Moving forward, these lessons will be very useful in my future career as an engineer, where digital tools like AI and Google Workspace are essential. Learning how to use them effectively has enhanced my ability to work smarter, organize information clearly, and adapt to modern technology.
       </p>
       <p align="left">
-        [Add a second paragraph reflecting on how these tools and workflows connect to your engineering and project work.]
+        For my engineering and project work, I learned that even good technical ideas need clear organization and presentation. Using Google Workspace helps me keep my reports, data, and schedules organized, while AI speeds up drafting and problem-solving. Pairing these tools with good visual design allows me to present my engineering data and proposals more clearly.
       </p>
       <p align="left">
-        [Add your thank-you note to your instructor/classmates here.]
+        Thank you to our instructor, Ma'am Ariane Mae Mendez, for the clear guidance, practical activities, and support throughout the semester, and to my classmates for the teamwork and shared ideas that made this course a great learning experience.
       </p>
       <br>
       <p align="left">
         <i>Sincerely,</i><br>
-        <b>[Your Name]</b>
+        <b>Jessiejean Visaya</b>
       </p>
       <br>
     </td>
@@ -406,7 +407,7 @@
       <br>
       <img src="https://github.com/JJvisayaddu/Portfolio-for-21st-Century-IT-Skills/blob/b04b40efa2636171963983535753c68cf7ebead8/Profile%20Picture%202%20(github).jpg" width="190" alt="Profile / Reflection Photo" />
       <br><br>
-      <b>🎧 [Your Name / Artist Tag] 🎧</b>
+      <b>🎧 J.J. 🎧</b>
       <br>
       <code>ılılıll|̲̅̅●̲̅̅|̲̅̅=̲̅̅|̲̅̅●̲̅̅|llılılı</code>
       <br>

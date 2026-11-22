@@ -240,7 +240,6 @@
       <p align="center">
         A hands-on practical laboratory exam applying the Google Workspace skills we learned from each group's class reports. This folder contains all of my completed lab outputs. Click the button below to view my work on Google Drive.
       </p>
-      <br>
       <code>◀ ■ ─── ılıllılı ─── ■ ▶</code>
       <br><br>
       <code>◀ ■</code>&nbsp;&nbsp;
@@ -281,7 +280,7 @@
     </td>
     <td width="33%" align="center" valign="top">
       <br>
-      <code>─── 🎧 TRACK.06 ───</code>
+      <code>─── 🎮 STAGE.06 ───</code>
       <br><br>
       <b>🌐 Activity 6 🌐</b>
       <br><br>
@@ -292,7 +291,7 @@
     </td>
     <td width="33%" align="center" valign="top">
       <br>
-      <code>─── 🎮 STAGE.07 ───</code>
+      <code>─── 📼 MIXTAPE.07 ───</code>
       <br><br>
       <b>📄 Activity 7 📄</b>
       <br><br>
@@ -347,17 +346,21 @@
       <img src="https://github.com/JJvisayaddu/Portfolio-for-21st-Century-IT-Skills/blob/b04b40efa2636171963983535753c68cf7ebead8/github%20prefi%20cover.PNG" width="240" alt="Prefinal Examination Preview" />
       <br><br>
       <p>
-    Upgrading, organizing, and redesigning this GitHub repository into a cohesive, aesthetic, and well-structured digital portfolio.
+    Compiled all of my course activities into a GitHub portfolio and redesigned the repository layout to match my personal interests in engineering, music, and gaming. (Credits to Princess Hannah Bea Maramara for the inspired repository layout, structure, info, and codes.)
   </p>
       <br>
       <code>[●─── ılıllılı ───●]</code>
       <br><br>
      <code>[●─</code>&nbsp;&nbsp;
-      <a href="https://github.com/JJvisayaddu/Portfolio-for-21st-Century-IT-Skills/blob/39b9c23c766b01e7990d666c877bd834ef5662af/README.md" target="_blank">
+      <a href="https://github.com/phbmaramara-sch/GE4120-MaramaraPHB-Portfolio/blob/main/README.md" target="_blank">
         <img src="https://img.shields.io/badge/%E2%9A%99%EF%B8%8F%20SYS-VIEWING%20NOW-050811?style=for-the-badge&labelColor=0F294A&color=38BDF8" align="absmiddle" alt="Viewing Now" />
       </a>
+      &nbsp;&nbsp;&nbsp;&nbsp;
+      <a href="https://github.com/JJvisayaddu/Portfolio-for-21st-Century-IT-Skills/blob/39b9c23c766b01e7990d666c877bd834ef5662af/README.md" target="_blank">
+        <img src="https://img.shields.io/badge/%E2%9A%99%EF%B8%8F%20CREDITS-VIEW%20Nana's GITHUB-050811?style=for-the-badge&labelColor=0F294A&color=38BDF8" align="absmiddle" alt="Viewing Now" />
+      </a>
       &nbsp;&nbsp;<code>─●]</code>
-      <br>
+      <br><br>
     </td>
   </tr>
 </table>

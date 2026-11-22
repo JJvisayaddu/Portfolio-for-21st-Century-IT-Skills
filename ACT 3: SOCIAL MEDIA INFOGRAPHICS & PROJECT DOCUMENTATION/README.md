@@ -250,26 +250,27 @@
 
 
 <!-- ==================== INLINE NAVIGATION FOOTER (PREV / HOME / NEXT) ==================== -->
+<h4><code>◀■ ─── 🎮 ─── ılıllılı ─── ⚙️ ───  ■▶</code></h4>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:050811,50:0F294A,100:2563EB&height=24" width="100%" />
+<br>
+<br>
 <code>◄◄</code>&nbsp;
-<a href="https://github.com/JJvisayaddu/Portfolio-for-21st-Century-IT-Skills/blob/3d33137e5d05c22c2ef0b048e533298cc82a824a/ACT%201%3A%20PRESENTATION%20DESIGN%20PRINCIPLES/README.md">
+<a href="https://github.com/JJvisayaddu/Portfolio-for-21st-Century-IT-Skills/blob/39b9c23c766b01e7990d666c877bd834ef5662af/ACT%202%3A%20PERSONAL%20BRANDING/README.md">
   <img src="https://img.shields.io/badge/%F0%9F%8E%A7%20PREV-ACT%2002-050811?style=for-the-badge&labelColor=1E1B4B&color=06B6D4" align="absmiddle" alt="Previous: Act 02" />
 </a>
 &nbsp;
 &nbsp;&nbsp;&nbsp;&nbsp;
 &nbsp;
-<a href="https://github.com/JJvisayaddu/Portfolio-for-21st-Century-IT-Skills/blob/6f6806a65343aca2aab4a55890a9522806eb2989/README.md">
+<a href="https://github.com/JJvisayaddu/Portfolio-for-21st-Century-IT-Skills/blob/39b9c23c766b01e7990d666c877bd834ef5662af/README.md">
   <img src="https://img.shields.io/badge/%F0%9F%8E%AE%20HOME-MAIN%20PORTFOLIO-050811?style=for-the-badge&labelColor=0F294A&color=2563EB" align="absmiddle" alt="Main Portfolio" />
 </a>
 &nbsp;
 &nbsp;&nbsp;&nbsp;&nbsp;
 &nbsp;
-<a href="https://github.com/JJvisayaddu/Portfolio-for-21st-Century-IT-Skills/blob/3d33137e5d05c22c2ef0b048e533298cc82a824a/ACT%204%3A%20PRESENTATION%20(GOOGLE%20WORKSPACE%20-%20GOOGLE%20DRIVE)%20(MIDTERMS)/README.md">
+<a href="https://github.com/JJvisayaddu/Portfolio-for-21st-Century-IT-Skills/blob/39b9c23c766b01e7990d666c877bd834ef5662af/ACT%204%3A%20PRESENTATION%20(GOOGLE%20WORKSPACE%20-%20GOOGLE%20DRIVE)%20(MIDTERMS)/README.md">
   <img src="https://img.shields.io/badge/%E2%9A%99%EF%B8%8F%20NEXT-ACT%2004-050811?style=for-the-badge&labelColor=0F294A&color=38BDF8" align="absmiddle" alt="Next: Prelim Exam" />
 </a>
 &nbsp;<code>─●]</code>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:050811,50:0F294A,100:2563EB&height=24" width="100%" />
-
-<h4><code>◀■ ─── 🎮 ─── ılıllılı ─── ⚙️ ───  ■▶</code></h4>
 
 </div>

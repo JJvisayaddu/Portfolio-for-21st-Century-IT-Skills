@@ -191,23 +191,24 @@
 
 </details>
 
-<br>
-
 <!-- ==================== NAVIGATION FOOTER ==================== -->
-<code>[●─</code>&nbsp;&nbsp;
-<a href="https://github.com/JJvisayaddu/Portfolio-for-21st-Century-IT-Skills/blob/6f6806a65343aca2aab4a55890a9522806eb2989/README.md">
-  <img src="https://img.shields.io/badge/%E2%9A%99%EF%B8%8F%20SYS-RETURN%20TO%20MAIN%20PORTFOLIO-050811?style=for-the-badge&labelColor=0F294A&color=2563EB" align="absmiddle" alt="Return to Main Portfolio" />
-</a>
-&nbsp;&nbsp;
-&nbsp;&nbsp;<a href="https://github.com/JJvisayaddu/Portfolio-for-21st-Century-IT-Skills/blob/3985f3a1a12899fe055bb6974c04f13954246883/ACT%202%3A%20PERSONAL%20BRANDING/README.md">
-        <img src="https://img.shields.io/badge/%F0%9F%8E%A7%20NEXT-PROCEED%20TO%20ACT%2002-050811?style=for-the-badge&labelColor=1E1B4B&color=06B6D4" align="absmiddle" alt="Proceed to Act 02" />
-      </a>
-      &nbsp;&nbsp;<code>►►</code>
+
+<h4><code>[●─── ⚙️ ─── ılıllılı ─── 🎧 ───●]</code></h4>
 
 <br>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:050811,50:0F294A,100:2563EB&height=24" width="100%" />
 
-<h4><code>[●─── ⚙️ ─── ılıllılı ─── 🎧 ───●]</code></h4>
+<br>
+<br>
+<code>[●─</code>&nbsp;&nbsp;
+<a href="https://github.com/JJvisayaddu/Portfolio-for-21st-Century-IT-Skills/blob/39b9c23c766b01e7990d666c877bd834ef5662af/README.md">
+  <img src="https://img.shields.io/badge/%E2%9A%99%EF%B8%8F%20SYS-RETURN%20TO%20MAIN%20PORTFOLIO-050811?style=for-the-badge&labelColor=0F294A&color=2563EB" align="absmiddle" alt="Return to Main Portfolio" />
+</a>
+&nbsp;&nbsp;
+&nbsp;&nbsp;<a href="https://github.com/JJvisayaddu/Portfolio-for-21st-Century-IT-Skills/blob/39b9c23c766b01e7990d666c877bd834ef5662af/ACT%202%3A%20PERSONAL%20BRANDING/README.md">
+        <img src="https://img.shields.io/badge/%F0%9F%8E%A7%20NEXT-PROCEED%20TO%20ACT%2002-050811?style=for-the-badge&labelColor=1E1B4B&color=06B6D4" align="absmiddle" alt="Proceed to Act 02" />
+      </a>
+      &nbsp;&nbsp;<code>►►</code>
 
 </div>

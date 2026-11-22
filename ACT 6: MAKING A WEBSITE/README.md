@@ -1,6 +1,6 @@
 <div align="center">
 
-<h4><code>【◄ 🎮 STAGE_06 // WEB_CREATION_WITH_AI ►】</code></h4>
+<h4><code>◄◆ 🎮 STAGE_06 // WEB_CREATION_WITH_AI ◆►</code></h4>
 
 <br>
 
@@ -8,7 +8,7 @@
 
 # 🎮 ACT 6: MAKING A WEBSITE 🎮
 
-<code>【◄ 🎮 ─── ılıllılı ─── 🕹️ ►】</code>
+<code>◄◆ 🎮 ─── ılıllılı ─── 🕹️ ◆►</code>
 
 </div>
 
@@ -22,15 +22,15 @@
 
 <div align="center">
 
-<code>【◄</code>&nbsp;&nbsp;
+<code>◄◆</code>&nbsp;&nbsp;
 <a href="https://docs.google.com/document/d/1uxpKWmTJi43-FXcIFEBzKRfMRSuO5fSb_X4KR6bSfXc/edit?usp=sharing" target="_blank">
   <img src="https://img.shields.io/badge/%F0%9F%8E%AE%20LVL.06-CLICK%20FOR%20VIEW%20(OUTPUT)-050811?style=for-the-badge&labelColor=0F294A&color=38BDF8" align="absmiddle" alt="Click for view (output)" />
 </a>
-&nbsp;&nbsp;<code>►】</code>
+&nbsp;&nbsp;<code>◆►</code>
 
 <br>
 
-<code>【◄</code>&nbsp;
+<code>◄◆</code>&nbsp;
 <a href="https://gemini.google.com/app" target="_blank">
   <img src="https://img.shields.io/badge/%F0%9F%8E%AE%20AI%20TOOL-GEMINI-050811?style=for-the-badge&labelColor=0F294A&color=38BDF8" align="absmiddle" alt="AI tool used: Gemini" />
 </a>
@@ -42,7 +42,7 @@
 <a href="https://claude.ai/new" target="_blank">
   <img src="https://img.shields.io/badge/%F0%9F%8E%AE%20AI%20TOOL-CLAUDE-050811?style=for-the-badge&labelColor=0F294A&color=38BDF8" align="absmiddle" alt="AI tool used: Claude" />
 </a>
-&nbsp;<code>►】</code>
+&nbsp;<code>◆►</code>
 
 </div>
 
@@ -129,28 +129,27 @@
 <!-- ==================== INLINE NAVIGATION FOOTER (PREV: ACT 05 / MAIN PORTFOLIO / NEXT: ACT 07) ==================== -->
 <div align="center">
 
-<code>【◄</code>&nbsp;
-<a href="[INSERT_ACT_5_LINK]">
+<h4><code>◄◆ 🎮 ─── ılıllılı ─── 🕹️ ◆►</code></h4>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:050811,50:0F294A,100:2563EB&height=24" width="100%" />
+<br>
+<br>
+<code>[●───</code>&nbsp;
+<a href="https://github.com/JJvisayaddu/Portfolio-for-21st-Century-IT-Skills/blob/39b9c23c766b01e7990d666c877bd834ef5662af/ACT%205%3A%20AI%20TOOLS%20ACTIVITY/README.md">
   <img src="https://img.shields.io/badge/%F0%9F%8E%AE%20PREV-ACT%2005-050811?style=for-the-badge&labelColor=0F294A&color=38BDF8" align="absmiddle" alt="Previous: Act 05" />
 </a>
-&nbsp;<code>►】</code>
+&nbsp;
 &nbsp;&nbsp;&nbsp;&nbsp;
-<code>【◄</code>&nbsp;
-<a href="[INSERT_MAIN_REPO_LINK]">
+&nbsp;
+<a href="https://github.com/JJvisayaddu/Portfolio-for-21st-Century-IT-Skills/blob/39b9c23c766b01e7990d666c877bd834ef5662af/README.md">
   <img src="https://img.shields.io/badge/%F0%9F%8E%AE%20LVL-MAIN%20PORTFOLIO-050811?style=for-the-badge&labelColor=0F294A&color=2563EB" align="absmiddle" alt="Main Portfolio" />
 </a>
-&nbsp;<code>►】</code>
+&nbsp;
 &nbsp;&nbsp;&nbsp;&nbsp;
-<code>【◄</code>&nbsp;
-<a href="[INSERT_ACT_7_LINK]">
+&nbsp;
+<a href="https://github.com/JJvisayaddu/Portfolio-for-21st-Century-IT-Skills/blob/39b9c23c766b01e7990d666c877bd834ef5662af/ACT%207%3A%20RESUME%20GENERATING/README.md">
   <img src="https://img.shields.io/badge/%F0%9F%8E%AE%20NEXT-ACT%2007-050811?style=for-the-badge&labelColor=0F294A&color=38BDF8" align="absmiddle" alt="Next: Act 07" />
 </a>
 &nbsp;<code>►】</code>
-
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:050811,50:0F294A,100:2563EB&height=24" width="100%" />
-
-<h4><code>【◄ 🎮 ─── ılıllılı ─── 🕹️ ►】</code></h4>
 
 </div>

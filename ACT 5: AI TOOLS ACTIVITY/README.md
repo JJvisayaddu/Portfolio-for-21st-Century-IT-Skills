@@ -104,29 +104,29 @@
 
 </div>
 
-<br>
 <!-- ==================== INLINE NAVIGATION FOOTER (PREV: ACT 05 / MAIN PORTFOLIO / NEXT: ACT 06) ==================== -->
 <div align="center">
 
+<h4><code>[●─── ⚙️ ─── ılıllılı ─── 🎮]</code></h4>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:050811,50:0F294A,100:2563EB&height=24" width="100%" />
+<br>
+<br>
 <code>[●─</code>&nbsp;
-<a href="[INSERT_ACT_5_LINK]">
+<a href="https://github.com/JJvisayaddu/Portfolio-for-21st-Century-IT-Skills/blob/39b9c23c766b01e7990d666c877bd834ef5662af/ACT%204%3A%20PRESENTATION%20(GOOGLE%20WORKSPACE%20-%20GOOGLE%20DRIVE)%20(MIDTERMS)/README.md">
   <img src="https://img.shields.io/badge/%E2%9A%99%EF%B8%8F%20PREV-ACT%2005-050811?style=for-the-badge&labelColor=0F294A&color=38BDF8" align="absmiddle" alt="Previous: Act 05" />
 </a>
 &nbsp;
 &nbsp;&nbsp;&nbsp;&nbsp;
 &nbsp;
-<a href="[INSERT_MAIN_REPO_LINK]">
+<a href="https://github.com/JJvisayaddu/Portfolio-for-21st-Century-IT-Skills/blob/39b9c23c766b01e7990d666c877bd834ef5662af/README.md">
   <img src="https://img.shields.io/badge/%E2%9A%99%EF%B8%8F%20SYS-MAIN%20PORTFOLIO-050811?style=for-the-badge&labelColor=0F294A&color=2563EB" align="absmiddle" alt="Main Portfolio" />
 </a>
 &nbsp;
 &nbsp;&nbsp;&nbsp;&nbsp;
 &nbsp;
-<a href="[INSERT_ACT_6_LINK]">
+<a href="https://github.com/JJvisayaddu/Portfolio-for-21st-Century-IT-Skills/blob/39b9c23c766b01e7990d666c877bd834ef5662af/ACT%206%3A%20MAKING%20A%20WEBSITE/README.md">
   <img src="https://img.shields.io/badge/%F0%9F%8E%AE%20NEXT-ACT%2006-050811?style=for-the-badge&labelColor=0F294A&color=38BDF8" align="absmiddle" alt="Next: Act 06" />
 </a>
-&nbsp;<code>■▶</code>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:050811,50:0F294A,100:2563EB&height=24" width="100%" />
-
-<h4><code>[●─── ⚙️ ─── ılıllılı ─── 🎮]</code></h4>
+&nbsp;<code>►】</code>
 </div>

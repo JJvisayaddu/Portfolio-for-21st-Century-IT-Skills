@@ -250,25 +250,24 @@
 
 </div>
 
-<br>
 
 <!-- ==================== INLINE NAVIGATION FOOTER (PREV: ACT 06 / MAIN PORTFOLIO) ==================== -->
 <div align="center">
 
-<code>【◄</code>&nbsp;
-<a href="[INSERT_ACT_6_LINK]">
-  <img src="https://img.shields.io/badge/%E2%8F%AA%20PREV-ACT%2006-050811?style=for-the-badge&labelColor=0F294A&color=38BDF8" align="absmiddle" alt="Previous: Act 06" />
-</a>
-&nbsp;<code>►】</code>
-&nbsp;&nbsp;&nbsp;&nbsp;
-<code>【◄</code>&nbsp;
-<a href="[INSERT_MAIN_REPO_LINK]">
-  <img src="https://img.shields.io/badge/%F0%9F%93%BC%20DECK-MAIN%20PORTFOLIO-050811?style=for-the-badge&labelColor=0F294A&color=2563EB" align="absmiddle" alt="Main Portfolio" />
-</a>
-&nbsp;<code>►】</code>
-
+<h4><code>【◄ ⏺ ─── [ ◎ ══════ ◎ ] ─── ⏏ ►】</code></h4>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:050811,50:0F294A,100:2563EB&height=24" width="100%" />
-
-<h4><code>【◄ ⏺ ─── [ ◎ ══════ ◎ ] ─── ⏏ ►】</code></h4>
+<br>
+<br>
+<code>◄◆</code>&nbsp;
+<a href="https://github.com/JJvisayaddu/Portfolio-for-21st-Century-IT-Skills/blob/39b9c23c766b01e7990d666c877bd834ef5662af/ACT%206%3A%20MAKING%20A%20WEBSITE/README.md">
+  <img src="https://img.shields.io/badge/%E2%8F%AA%20PREV-ACT%2006-050811?style=for-the-badge&labelColor=0F294A&color=38BDF8" align="absmiddle" alt="Previous: Act 06" />
+</a>
+&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;
+<a href="https://github.com/JJvisayaddu/Portfolio-for-21st-Century-IT-Skills/blob/39b9c23c766b01e7990d666c877bd834ef5662af/README.md">
+  <img src="https://img.shields.io/badge/%F0%9F%93%BC%20DECK-MAIN%20PORTFOLIO-050811?style=for-the-badge&labelColor=0F294A&color=2563EB" align="absmiddle" alt="Main Portfolio" />
+</a>
+&nbsp;
 </div>

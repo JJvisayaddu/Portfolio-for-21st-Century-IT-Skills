@@ -201,7 +201,7 @@
 
 <br>
 <br>
-<code>[●─</code>&nbsp;&nbsp;
+&nbsp;&nbsp;
 <a href="https://github.com/JJvisayaddu/Portfolio-for-21st-Century-IT-Skills/blob/39b9c23c766b01e7990d666c877bd834ef5662af/README.md">
   <img src="https://img.shields.io/badge/%E2%9A%99%EF%B8%8F%20SYS-RETURN%20TO%20MAIN%20PORTFOLIO-050811?style=for-the-badge&labelColor=0F294A&color=2563EB" align="absmiddle" alt="Return to Main Portfolio" />
 </a>

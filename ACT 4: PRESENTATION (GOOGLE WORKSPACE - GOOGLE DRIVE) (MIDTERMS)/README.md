@@ -235,36 +235,34 @@
 
 </div>
 
-<br>
+
 
 <div align="center">
 
-<br>
-
-<div align="center">
-
-<code>◀■</code>&nbsp;
-<a href="[INSERT_ACT_3_LINK]">
-  <img src="https://img.shields.io/badge/%F0%9F%8E%AE%20PREV-ACT%2003-050811?style=for-the-badge&labelColor=0F294A&color=2563EB" align="absmiddle" alt="Previous: Act 03" />
-</a>
-&nbsp;<code>■▶</code>
-&nbsp;&nbsp;&nbsp;&nbsp;
-<code>[●─</code>&nbsp;
-<a href="[INSERT_MAIN_REPO_LINK]">
-  <img src="https://img.shields.io/badge/%E2%9A%99%EF%B8%8F%20SYS-MAIN%20PORTFOLIO-050811?style=for-the-badge&labelColor=0F294A&color=38BDF8" align="absmiddle" alt="Main Portfolio" />
-</a>
-&nbsp;<code>─●]</code>
-&nbsp;&nbsp;&nbsp;&nbsp;
-<code>◀■</code>&nbsp;
-<a href="[INSERT_ACT_5_LINK]">
-  <img src="https://img.shields.io/badge/%F0%9F%8E%AE%20NEXT-ACT%2005-050811?style=for-the-badge&labelColor=0F294A&color=2563EB" align="absmiddle" alt="Next: Act 05" />
-</a>
-&nbsp;<code>■▶</code>
+<h4><code>[●─── ⚙️ ─── ılıllılı ─── 🎮 ─── ■▶]</code></h4>
 
 <br>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:050811,50:0F294A,100:2563EB&height=24" width="100%" />
+<br>
+<br>
+<code>◀■</code>&nbsp;
+<a href="https://github.com/JJvisayaddu/Portfolio-for-21st-Century-IT-Skills/blob/39b9c23c766b01e7990d666c877bd834ef5662af/ACT%203%3A%20SOCIAL%20MEDIA%20INFOGRAPHICS%20%26%20PROJECT%20DOCUMENTATION/README.md">
+  <img src="https://img.shields.io/badge/%F0%9F%8E%AE%20PREV-ACT%2003-050811?style=for-the-badge&labelColor=0F294A&color=2563EB" align="absmiddle" alt="Previous: Act 03" />
+</a>
+&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;
+<a href="https://github.com/JJvisayaddu/Portfolio-for-21st-Century-IT-Skills/blob/39b9c23c766b01e7990d666c877bd834ef5662af/README.md">
+  <img src="https://img.shields.io/badge/%E2%9A%99%EF%B8%8F%20SYS-MAIN%20PORTFOLIO-050811?style=for-the-badge&labelColor=0F294A&color=38BDF8" align="absmiddle" alt="Main Portfolio" />
+</a>
+&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;
+<a href="https://github.com/JJvisayaddu/Portfolio-for-21st-Century-IT-Skills/blob/39b9c23c766b01e7990d666c877bd834ef5662af/ACT%205%3A%20AI%20TOOLS%20ACTIVITY/README.md">
+  <img src="https://img.shields.io/badge/%F0%9F%8E%AE%20NEXT-ACT%2005-050811?style=for-the-badge&labelColor=0F294A&color=2563EB" align="absmiddle" alt="Next: Act 05" />
+</a>
+&nbsp;<code>───●]</code>
 
-<h4><code>[●─── ⚙️ ─── ılıllılı ─── 🎮 ─── ■▶]</code></h4>
 
 </div>

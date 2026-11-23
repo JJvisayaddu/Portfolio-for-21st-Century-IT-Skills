@@ -413,7 +413,7 @@ Moving forward, these lessons will be very useful in my future career as an engi
       <br><br>
       <code>ılılıll|̲̅̅●̲̅̅|̲̅̅=̲̅̅|̲̅̅●̲̅̅|llılılı</code>
       <br><br>
-      <code>◄◄</code>&nbsp;&nbsp;<a href="https://open.spotify.com/playlist/1XZziwW7BJQEBHewndZYx1?si=e6b646fb61144fc4" target="_blank"><img src="https://img.shields.io/badge/%F0%9F%8E%A7%20PLAY-SPOTIFY%20TRACK-050811?style=for-the-badge&labelColor=1E1B4B&color=06B6D4" alt="Play on Spotify" /></a>&nbsp;&nbsp;<code>►►</code>
+      &nbsp;&nbsp;<a href="https://open.spotify.com/playlist/1XZziwW7BJQEBHewndZYx1?si=e6b646fb61144fc4" target="_blank"><img src="https://img.shields.io/badge/%F0%9F%8E%A7%20PLAY-SPOTIFY%20TRACK-050811?style=for-the-badge&labelColor=1E1B4B&color=06B6D4" alt="Play on Spotify" /></a>&nbsp;&nbsp;
       </a>
       <br><br>
     </td>
